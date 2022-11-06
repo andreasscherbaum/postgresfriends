@@ -1,0 +1,15 @@
+#!/bin/bash
+
+set -e
+
+echo "pre-flight checks:"
+
+echo "Check postgresfriends.json syntax ..."
+jq -e "." < postgresfriends.json > /dev/null
+
+echo "Check for 'Mastadon' instead of 'Mastodon' ..."
+if grep -q 'Mastadon' postgresfriends.json;
+then
+    echo "String 'Mastadon' found in postgresfriends.json"
+    exit 1
+fi
