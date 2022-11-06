@@ -1,0 +1,50 @@
+name: Verify Pull Requests
+
+# Run this workflow every time a new commit pushed to the repository
+on: 
+  push:
+    branches: ['*']
+    #branches-ignore: 'main'
+
+  pull_request:
+    branches: ['*']
+    #branches-ignore: 'main'
+
+  workflow_dispatch:
+
+
+defaults:
+  run:
+    shell: bash
+
+
+jobs:
+  pr-test:
+    name: Verify data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout data
+        uses: actions/checkout@v3
+
+      - name: Calculate working directory
+        run: echo "PWD=$(realpath ./$EXTENSION_SUBDIRECTORY)" >>$GITHUB_OUTPUT
+        id: pwd
+
+      - name: Working directory
+        run: echo "${{ steps.pwd.outputs.PWD }}"
+
+
+      - name: Verify JSON
+        run: jq -e "." < postgresfriends.json > /dev/null
+
+      - name: Find 'Mastadon' in file
+        run: echo "COUNT=$(grep -c 'Mastadon' postgresfriends.json)" >>$GITHUB_OUTPUT
+        id: mastadon_count
+
+      - name: Show 'Mastadon' word count
+        run: echo "${{ steps.mastadon_count.outputs.COUNT }}"
+
+      - name: Break if word 'Mastadon' is found
+        run: exit 1
+        if: steps.mastadon_count.outputs.COUNT != '0'
