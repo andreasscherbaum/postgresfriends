@@ -5,5 +5,35 @@
 		"LinkedIn": ["https://www.linkedin.com/in/andreas-scherbaum-87b6663/"],
 		"Mastodon": ["https://mastodon.social/@ascherbaum"],
 		"Polywork": ["https://www.polywork.com/ads"]
+	},
+	"Andreas Kretschmer": {
+		"Twitter": ["https://twitter.com/AndreasKretsch7"],
+		"Mastodon": ["https://social.anoxinon.de/@akretschmer"]
+	},
+	"Vik Fearing": {
+		"Twitter": ["https://twitter.com/pg_xocolatl"],
+		"Mastodon": ["https://mastodon.social/@xocolatl"]
+	},
+	"Lætitia Avrot": {
+		"Mastodon": ["https://fosstodon.org/@l_avrot"],
+		"Twitter": ["https://twitter.com/l_avrot"],
+		"Blog": ["https://mydbanotebook.org/"],
+		"Website": ["https://psql-tips.org/"]
+	},
+	"Stefanie Janine Stölting": {
+		"Mastodon": ["https://digitalcourage.social/@sjstoelting"],
+		"Twitter": ["https://twitter.com/sjstoelting"],
+		"Blog": ["https://proopensource.it/"]
+	},
+	"Federico Campoli": {
+		"Twitter": ["https://twitter.com/4thdoctor_scarf"],
+		"Mastodon": ["https://fosstodon.org/@4thdoctor_scarf"],
+		"Blog": ["https://pgdba.org/"]
+	},
+	"Jimmy Angelakos": {
+		"Mastodon": ["https://fosstodon.org/@vyruss"],
+		"Twitter": ["https://twitter.com/vyruss"],
+		"YouTube": ["http://youtube.com/@JimmyAngelakos"],
+		"Blog": ["http://vyruss.org/blog"]
 	}
 }
