@@ -23,7 +23,7 @@
 	"Paul Ramsey": {
 		"Blog": ["https://blog.cleverelephant.ca/"],
 		"Mastodon": ["https://mastodon.social/@pwramsey"],
-		"Twitter": ["https://twitter.com/pramsey"],
+		"Twitter": ["https://twitter.com/pwramsey"],
 		"LinkedIn": ["https://www.linkedin.com/in/paul-ramsey-717134/"]
 	},	
 	"Stefanie Janine Stölting": {
@@ -41,5 +41,11 @@
 		"Twitter": ["https://twitter.com/vyruss"],
 		"YouTube": ["http://youtube.com/@JimmyAngelakos"],
 		"Blog": ["http://vyruss.org/blog"]
+	},
+	"Regina Obe": {
+		"Website": ["https://www.paragoncorporation.com", "https://www.postgis.us"],
+		"Blog": ["https://www.bostongis.com/blog", "https://www.postgresonline.com/journal"],
+		"LinkedIn": ["https://www.linkedin.com/in/regina-obe-2000057"],
+		"Twitter": ["https://twitter.com/reginaobe"]
 	}
 }
