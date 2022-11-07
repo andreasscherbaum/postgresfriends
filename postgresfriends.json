@@ -20,6 +20,12 @@
 		"Blog": ["https://mydbanotebook.org/"],
 		"Website": ["https://psql-tips.org/"]
 	},
+	"Paul Ramsey": {
+		"Blog": ["https://blog.cleverelephant.ca/"],
+		"Mastodon": ["https://mastodon.social/@pwramsey"],
+		"Twitter": ["https://twitter.com/pramsey"],
+		"LinkedIn": ["https://www.linkedin.com/in/paul-ramsey-717134/"]
+	},	
 	"Stefanie Janine Stölting": {
 		"Mastodon": ["https://digitalcourage.social/@sjstoelting"],
 		"Twitter": ["https://twitter.com/sjstoelting"],
