@@ -38,6 +38,9 @@ jobs:
       - name: Verify JSON
         run: jq -e "." < postgresfriends.json > /dev/null
 
+      - name: Verify postgresfriends.json data integrity
+        run: ./bin/verify-data.py < postgresfriends.json > /dev/null
+
       - name: Find 'Mastadon' in file
         run: echo "COUNT=$(grep -c 'Mastadon' postgresfriends.json)" >>$GITHUB_OUTPUT
         id: mastadon_count
