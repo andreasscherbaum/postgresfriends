@@ -7,6 +7,9 @@ echo "pre-flight checks:"
 echo "Check postgresfriends.json syntax ..."
 jq -e "." < postgresfriends.json > /dev/null
 
+echo "Verifying postgresfriends.json data ..."
+./bin/verify-data.py < postgresfriends.json
+
 echo "Check for 'Mastadon' instead of 'Mastodon' ..."
 if grep -q 'Mastadon' postgresfriends.json;
 then
