@@ -41,5 +41,12 @@
 		"Twitter": ["https://twitter.com/vyruss"],
 		"YouTube": ["http://youtube.com/@JimmyAngelakos"],
 		"Blog": ["http://vyruss.org/blog"]
+	},
+	"Franck Pachot": {
+		"Twitter": ["https://twitter.com/FranckPachot"],
+		"LinkedIn": ["https://www.linkedin.com/in/franckpachot"],
+		"YouTube": ["http://youtube.com/@FranckPachot"],
+		"Blog": ["https://dev.to/franckpachot"],
+		"Mastodon": ["https://mastodon.social/@FranckPachot"]
 	}
 }
