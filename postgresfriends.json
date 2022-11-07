@@ -56,5 +56,15 @@
 		"Blog": ["https://www.bostongis.com/blog", "https://www.postgresonline.com/journal"],
 		"LinkedIn": ["https://www.linkedin.com/in/regina-obe-2000057"],
 		"Twitter": ["https://twitter.com/reginaobe"]
+	},
+	"David E. Wheeler": {
+		"Blog": ["https://justatheory.com/"],
+		"Twitter": ["https://twitter.com/theory"],
+		"Instagram": ["https://www.instagram.com/theory/"],
+		"GitHub": ["https://github.com/theory/"],
+		"Letterboxd": ["https://letterboxd.com/theory/"],
+		"StoryGraph": ["https://app.thestorygraph.com/profile/itheory"],
+		"LinkedIn": ["https://www.linkedin.com/in/theory/"],
+		"Mastodon": ["https://xoxo.zone/@theory"]
 	}
 }
