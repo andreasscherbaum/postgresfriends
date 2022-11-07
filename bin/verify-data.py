@@ -19,14 +19,14 @@ input_json = json.loads(input_text)
 
 
 def validate_url(url: str, socialname: str) -> bool:
-    print(url)
+    #print(url)
     try:
         res = urlparse(url)
     except:
         print("Invalid URL: {url}".format(url = url))
         sys.exit(1)
 
-    print(res)
+    #print(res)
     if (socialname in ['Twitter', 'Mastodon', 'Mastodon', 'LinkedIn', 'Polywork']):
         if (res.scheme != 'https'):
             print("URL schema must be https! (URL: {url})".format(url = url))
