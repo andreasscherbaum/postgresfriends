@@ -78,6 +78,7 @@
 		"Twitter": ["https://twitter.com/michristofides"],
 		"LinkedIn": ["https://www.linkedin.com/in/michristofides"],
 		"Blog": ["https://www.pgmustard.com/blog"],
-		"Mastodon": ["https://mstdn.social/@michristofides"]
+		"Mastodon": ["https://mstdn.social/@michristofides"],
+		"Postgres FM Podcast": ["https://postgres.fm/"]
 	}
 }
