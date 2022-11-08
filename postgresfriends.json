@@ -73,5 +73,11 @@
 		"YouTube": ["http://youtube.com/@FranckPachot"],
 		"Blog": ["https://dev.to/franckpachot"],
 		"Mastodon": ["https://mastodon.social/@FranckPachot"]
+	},
+	"Michael Christofides": {
+		"Twitter": ["https://twitter.com/michristofides"],
+		"LinkedIn": ["https://www.linkedin.com/in/michristofides"],
+		"Blog": ["https://www.pgmustard.com/blog"],
+		"Mastodon": ["https://mstdn.social/@michristofides"]
 	}
 }
