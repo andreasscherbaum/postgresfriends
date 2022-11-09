@@ -80,5 +80,11 @@
 		"Blog": ["https://www.pgmustard.com/blog"],
 		"Mastodon": ["https://mstdn.social/@michristofides"],
 		"Postgres FM Podcast": ["https://postgres.fm/"]
+	},
+	"Hironobu Suzuki": {
+		"Twitter": ["https://twitter.com/suzuki_hironobu"],
+		"LinkedIn": ["https://www.linkedin.com/in/hironobu-suzuki-03b69015/"],
+		"Website": ["https://www.interdb.jp/"],
+		"Blog": ["https://www.interdb.jp/blog/"]
 	}
 }
