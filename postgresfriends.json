@@ -86,5 +86,10 @@
 		"LinkedIn": ["https://www.linkedin.com/in/hironobu-suzuki-03b69015/"],
 		"Website": ["https://www.interdb.jp/"],
 		"Blog": ["https://www.interdb.jp/blog/"]
+	},
+	"Akshay Joshi": {
+		"LinkedIn": ["https://www.linkedin.com/in/akshay-joshi-086497216"],
+		"GitHub": ["https://github.com/akshay-joshi"],
+		"Blog": ["https://www.enterprisedb.com/akshay-joshi"]
 	}
 }
