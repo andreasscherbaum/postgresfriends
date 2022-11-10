@@ -115,5 +115,11 @@
 		"GitHub": ["https://github.com/dpage"],
 		"Mastodon": ["https://fosstodon.org/@pgSnake"],
 		"Website": ["https://www.pgadmin.org/"]
+	},
+	"Stefan Fercot": {
+		"Twitter": ["https://twitter.com/pgstef"],
+		"Blog": ["https://pgstef.github.io"],
+		"GitHub": ["https://github.com/pgstef"],
+		"Mastodon": ["https://fosstodon.org/@pgstef"]
 	}
 }
