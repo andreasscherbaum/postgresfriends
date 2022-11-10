@@ -108,5 +108,10 @@
 		"Blog": ["https://hdombrovskaya.wordpress.com/"],
 		"Instagram": ["https://www.instagram.com/hettie_rogers_park/"],
 		"LinkedIn": ["https://www.linkedin.com/in/henrietta-dombrovskaya-367b26/"]
+	},
+	"Stefan Fercot": {
+		"Twitter": ["https://twitter.com/pgstef"],
+		"Blog": ["https://pgstef.github.io/"],
+		"Mastodon": ["https://fosstodon.org/@pgstef"]
 	}
 }
