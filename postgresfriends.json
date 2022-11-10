@@ -108,5 +108,12 @@
 		"Blog": ["https://hdombrovskaya.wordpress.com/"],
 		"Instagram": ["https://www.instagram.com/hettie_rogers_park/"],
 		"LinkedIn": ["https://www.linkedin.com/in/henrietta-dombrovskaya-367b26/"]
+	},
+	"Dave Page": {
+		"Twitter": ["https://twitter.com/pgsnake"],
+		"Blog": ["https://pgsnake.blogspot.com", "https://www.enterprisedb.com/dave-page"],
+		"GitHub": ["https://github.com/dpage"],
+		"Mastodon": ["https://fosstodon.org/@pgSnake"],
+		"Website": ["https://www.pgadmin.org"]
 	}
 }
