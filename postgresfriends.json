@@ -122,5 +122,11 @@
 		"Blog": ["https://pgstef.github.io"],
 		"GitHub": ["https://github.com/pgstef"],
 		"Mastodon": ["https://fosstodon.org/@pgstef"]
+	},
+	"Andrew Dunstan": {
+		"Blog": ["https://adpgtech.blogspot.com/search/label/PostgreSQL"],
+		"LinkedIn": ["https://www.linkedin.com/in/andrewdunstan/"],
+		"Facebook": ["https://www.facebook.com/andrew.m.dunstan/"],
+		"Mastodon": ["https://c.im/@amdunstan"]
 	}
 }
