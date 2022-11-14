@@ -128,5 +128,12 @@
 		"LinkedIn": ["https://www.linkedin.com/in/andrewdunstan/"],
 		"Facebook": ["https://www.facebook.com/andrew.m.dunstan/"],
 		"Mastodon": ["https://c.im/@amdunstan"]
+	},
+	"Douglas J Hunley": {
+		"Blog": ["https://hunleyd.github.io/"],
+		"Twitter": ["https://twitter.com/hunleyd"],
+		"LinkedIn": ["https://www.linkedin.com/in/dhunley/"],
+		"Mastodon": ["https://fosstodon.org/@hunleyd"],
+		"GitHub": ["https://github.com/hunleyd"]
 	}
 }
