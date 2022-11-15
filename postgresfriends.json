@@ -139,5 +139,12 @@
 	"Laura Ricci": {
 		"LinkedIn": ["https://www.linkedin.com/in/lricci1/"],
 		"Mastodon": ["https://framapiaf.org/@laura_ricci"]
+	},
+	"Jan Karremans": {
+		"Blog": ["https://jk-consult.nl/"],
+		"Twitter": ["https://twitter.com/johnnyq72"],
+		"LinkedIn": ["https://www.linkedin.com/in/jankarremans/"],
+		"Mastodon": ["https://fosstodon.org/@Johnnyq72"],
+		"Telegram": ["https://t.me/Johnnyq72"]
 	}
 }
