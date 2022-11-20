@@ -164,5 +164,11 @@
 		"LinkedIn": ["https://www.linkedin.com/in/karenhjex/"],
 		"Twitter": ["https://twitter.com/Karenhjex"],
 		"Mastodon": ["https://mastodon.online/@karenhjex"]
+	},
+	"Thomas Munro": {
+		"Infrequently updated personal blog": ["https://write-skew.blogspot.com/"],
+		"LinkedIn": ["https://www.linkedin.com/in/thomas-munro-8559201b/"],
+		"Twitter": ["https://twitter.com/MengTangmu"],
+		"Mastodon": ["https://fosstodon.org/@tmunro"]
 	}
 }
