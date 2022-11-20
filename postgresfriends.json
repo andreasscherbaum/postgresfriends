@@ -153,5 +153,11 @@
 	},
 	"Piet de Visser": {
 		"Mastodon": ["https://mastodon.social/@PietdeVisser"]
+	},
+	"Claire Giordano": {
+		"Citus Database Blog": ["https://www.citusdata.com/blog/authors/claire-giordano/"],
+		"LinkedIn": ["https://www.linkedin.com/in/claireg/"],
+		"Twitter": ["https://twitter.com/clairegiordano"],
+		"Mastodon": ["https://mastodon.social/@clairegiordano"]
 	}
 }
