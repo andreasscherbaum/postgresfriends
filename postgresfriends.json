@@ -184,5 +184,13 @@
 		"LinkedIn": ["https://www.linkedin.com/in/tomasvondra/"],
 		"Twitter": ["https://twitter.com/fuzzycz"],
 		"Mastodon": ["https://fosstodon.org/@tomasv"]
+	},
+	"Adrien Nayrat": {
+		"Blog": ["https://blog.anayrat.info/"],
+		"LinkedIn": ["https://www.linkedin.com/in/adriennayrat/"],
+		"Github": ["https://github.com/anayrat"],
+		"Twitter": ["https://twitter.com/Adrien_nayrat"],
+		"Mastodon": ["https://framapiaf.org/@anayrat"]
 	}
 }
+
