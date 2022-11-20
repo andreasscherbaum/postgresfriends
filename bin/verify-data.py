@@ -77,9 +77,6 @@ for username, userdata in input_json.items():
         if (socialname.lower().find('mastadon') != -1):
             print("Invalid social media name: {n}, should be 'Mastodon'".format(n = socialname))
             sys.exit(1)
-        if (socialname.lower().find('blog') != -1 and socialname != 'Blog'):
-            print("Invalid social media name: {n}, should be 'Blog'".format(n = socialname))
-            sys.exit(1)
         if (socialname.lower().find('linkedin') != -1 and socialname != 'LinkedIn'):
             print("Invalid social media name: {n}, should be 'LinkedIn'".format(n = socialname))
             sys.exit(1)
