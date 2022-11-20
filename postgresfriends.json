@@ -170,5 +170,12 @@
 		"LinkedIn": ["https://www.linkedin.com/in/thomas-munro-8559201b/"],
 		"Twitter": ["https://twitter.com/MengTangmu"],
 		"Mastodon": ["https://fosstodon.org/@tmunro"]
+	},
+	"Frits Hoogland": {
+		"Blog": ["https://dev.to/fritshooglandyugabyte"],
+		"LinkedIn": ["https://www.linkedin.com/in/fritshoogland/"],
+		"Twitter": ["https://twitter.com/fritshoogland"],
+		"Facebook": ["https://www.facebook.com/FritsHoogland"],
+		"Mastodon": ["https://mastodon.world/@fritshoogland"]
 	}
 }
