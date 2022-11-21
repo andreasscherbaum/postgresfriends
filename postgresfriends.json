@@ -221,6 +221,10 @@
 		"BSDCan": ["https://www.bsdcan.org/"],
 		"FreeBSD Diary": ["https://www.freebsddiary.org/"],
 		"PGCon": ["https://www.pgcon.org/"]
+	},
+	"Bertrand Drouvot": {
+		"Twitter": ["https://twitter.com/BertrandDrouvot"],
+		"Mastodon": ["https://mastodon.top/@BertrandDrouvot"]
 	}
 }
 
