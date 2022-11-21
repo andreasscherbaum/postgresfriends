@@ -204,5 +204,11 @@
 		"Blog": ["https://intrbiz.com/"],
 		"Twitter": ["https://twitter.com/intrbiz"],
 		"Mastodon": ["https://bergamot.social/@intrbiz"]
+	},
+	"Francesco Tisiot": {
+		"Website": ["https://ftisiot.net/"],
+		"LinkedIn": ["https://www.linkedin.com/in/francescotisiot"],
+		"Twitter": ["https://www.twitter.com/ftisiot"],
+		"Mastodon": ["https://data-folks.masto.host/@ftisiot"]
 	}
 }
