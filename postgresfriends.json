@@ -199,5 +199,10 @@
 	},
 	"Greg Stark": {
 		"Mastodon": ["https://mastodon.mit.edu/@stark"]
+	},
+	"Chris Ellis": {
+		"Blog": ["https://intrbiz.com/"],
+		"Twitter": ["https://twitter.com/intrbiz"],
+		"Mastodon": ["https://bergamot.social/@intrbiz"]
 	}
 }
