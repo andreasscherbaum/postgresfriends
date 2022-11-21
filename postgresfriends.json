@@ -244,5 +244,9 @@
 		"Twitter": ["https://twitter.com/lukaseder"],
 		"Blog": ["https://blog.jooq.org/"],
 		"Mastodon": ["https://mastodon.social/@lukaseder"]
+	},
+	"Aleš Zelený": {
+		"LinkedIn": ["https://www.linkedin.com/in/azeleny/"],
+		"Mastodon": ["https://mastodonczech.cz/@AlesZeleny"]
 	}
 }
