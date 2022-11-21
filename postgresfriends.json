@@ -225,6 +225,10 @@
 	"Bertrand Drouvot": {
 		"Twitter": ["https://twitter.com/BertrandDrouvot"],
 		"Mastodon": ["https://mastodon.top/@BertrandDrouvot"]
+	},
+	"Andres Freund": {
+		"Blog": ["https://blog.anarazel.de/"],
+		"Twitter": ["https://twitter.com/AndresFreundTec", "https://twitter.com/AndresFreundPol"],
+		"Mastodon": ["https://mastodon.social/@AndresFreundTec", "https://mastodon.social/@AndresFreundPol"]
 	}
 }
-
