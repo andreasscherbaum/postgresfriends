@@ -196,5 +196,8 @@
 		"LinkedIn": ["https://www.linkedin.com/in/boriss-mej%C3%ADas-4637401/"],
 		"Twitter": ["https://twitter.com/tchorix"],
 		"Mastodon": ["https://mastodon.world/@tchorix"]
+	},
+	"Greg Stark": {
+		"Mastodon": ["https://mastodon.mit.edu/@stark"]
 	}
 }
