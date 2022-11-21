@@ -248,5 +248,10 @@
 	"Aleš Zelený": {
 		"LinkedIn": ["https://www.linkedin.com/in/azeleny/"],
 		"Mastodon": ["https://mastodonczech.cz/@AlesZeleny"]
+	},
+	"Tobias Bussmann": {
+		"GitHub": ["https://github.com/tbussmann"],
+		"Mastodon": ["https://tooting.ch/@tbussmann"],
+		"Twitter": ["https://twitter.com/TobiasBussmann"]
 	}
 }
