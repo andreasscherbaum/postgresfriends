@@ -230,5 +230,9 @@
 		"Blog": ["https://blog.anarazel.de/"],
 		"Twitter": ["https://twitter.com/AndresFreundTec", "https://twitter.com/AndresFreundPol"],
 		"Mastodon": ["https://mastodon.social/@AndresFreundTec", "https://mastodon.social/@AndresFreundPol"]
+	},
+	"Jean-Paul Argudo": {
+		"LinkedIn": ["https://www.linkedin.com/in/jpargudo/"],
+		"Mastodon": ["https://mastodon.social/@jpargudo"]
 	}
 }
