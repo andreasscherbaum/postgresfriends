@@ -210,5 +210,17 @@
 		"LinkedIn": ["https://www.linkedin.com/in/francescotisiot"],
 		"Twitter": ["https://www.twitter.com/ftisiot"],
 		"Mastodon": ["https://data-folks.masto.host/@ftisiot"]
+	},
+	"Dan Langille": {
+		"Homepage": ["https://www.langille.org/"],
+		"LinkedIn": ["https://www.linkedin.com/in/danlangille/"],
+		"Twitter": ["https://twitter.com/dlangille", "https://twitter.com/pgcon", "https://twitter.com/bsdcan"],
+		"Mastodon": ["https://bsd.network/@dvl", "https://mastodon.social/@pgcon", "https://bsd.network/@bsdcan"],
+		"Blog": ["https://dan.langille.org/"],
+		"FreshPorts blog": ["https://news.freshports.org/"],
+		"BSDCan": ["https://www.bsdcan.org/"],
+		"FreeBSD Diary": ["https://www.freebsddiary.org/"],
+		"PGCon": ["https://www.pgcon.org/"]
 	}
 }
+
