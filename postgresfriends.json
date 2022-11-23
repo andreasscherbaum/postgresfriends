@@ -267,5 +267,8 @@
 		"GitHub": ["https://github.com/alvherre"],
 		"LinkedIn": ["https://linkedin.com/in/alvherre"],
 		"Mastodon": ["https://lile.cl/@alvherre"]
+	},
+	"Will Leinweber": {
+		"Mastodon": ["https://ruby.social/@will"]
 	}
 }
