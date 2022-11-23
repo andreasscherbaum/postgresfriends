@@ -259,5 +259,8 @@
 		"LinkedIn": ["https://www.linkedin.com/in/lfittl/"],
 		"Mastodon": ["https://hachyderm.io/@lukas"],
 		"Twitter": ["https://twitter.com/LukasFittl"]
+	},
+	"Danilo Endesfelder": {
+		"Mastodon": ["https://mastodon.social/@DaniloE"]
 	}
 }
