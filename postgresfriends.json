@@ -262,5 +262,10 @@
 	},
 	"Danilo Endesfelder": {
 		"Mastodon": ["https://mastodon.social/@DaniloE"]
+	},
+	"Álvaro Herrera": {
+		"GitHub": ["https://github.com/alvherre"],
+		"LinkedIn": ["https://linkedin.com/in/alvherre"],
+		"Mastodon": ["https://lile.cl/@alvherre"]
 	}
 }
