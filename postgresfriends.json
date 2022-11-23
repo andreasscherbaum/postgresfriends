@@ -253,5 +253,11 @@
 		"GitHub": ["https://github.com/tbussmann"],
 		"Mastodon": ["https://tooting.ch/@tbussmann"],
 		"Twitter": ["https://twitter.com/TobiasBussmann"]
+	},
+	"Lukas Fittl": {
+		"GitHub": ["https://github.com/lfittl/"],
+		"LinkedIn": ["https://www.linkedin.com/in/lfittl/"],
+		"Mastodon": ["https://hachyderm.io/@lukas"],
+		"Twitter": ["https://twitter.com/LukasFittl"]
 	}
 }
