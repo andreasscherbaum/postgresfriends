@@ -278,5 +278,9 @@
 		"Blog": ["https://sebastien.lardiere.net/blog/index.php/category/Postgresql"],
 		"Twitter": ["https://twitter.com/slardiere"],
 		"Mastodon": ["https://mastodon.xyz/@slardiere"]
+	},
+	"Jean-Christophe Arnu": {
+		"LinkedIn": ["https://www.linkedin.com/in/jean-christophe-arnu/"],
+		"Mastodon": ["https://mastodon.xyz/@jcarnu"]
 	}
 }
