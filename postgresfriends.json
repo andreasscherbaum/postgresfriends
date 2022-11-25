@@ -287,5 +287,8 @@
 		"LinkedIn": ["https://www.linkedin.com/in/herve-schweitze"],
 		"Twitter": ["https://twitter.com/Herveschweitzer"],
 		"Mastodon": ["https://mastodontech.de/@herveschweitzer"]
+	},
+	"Vincent Picavet": {
+		"Mastodon": ["https://mastodon.social/@vpicavet"]
 	}
 }
