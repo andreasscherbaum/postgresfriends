@@ -290,5 +290,9 @@
 	},
 	"Vincent Picavet": {
 		"Mastodon": ["https://mastodon.social/@vpicavet"]
+	},
+	"Christoph Berg": {
+		"Twitter": ["https://twitter.com/df7cb"],
+		"Mastodon": ["https://mastodon.social/@df7cb"]
 	}
 }
