@@ -301,5 +301,11 @@
 		"Food/Pottery Blog": ["http://www.fuzzychef.org/"],
 		"Food/Pottery Instagram": ["https://www.instagram.com/fuzzychefpottery/"],
 		"Mastodon": ["https://m6n.io/@fuzzychef"]
+	},
+	"Miroslav Šedivý": {
+		"Website": ["https://eumiro.github.io/"],
+		"GitHub": ["https://linkedin.com/in/eumiro"],
+		"Twitter": ["https://twitter.com/df7cb"],
+		"Mastodon": ["https://mas.to/@eumiro"]
 	}
 }
