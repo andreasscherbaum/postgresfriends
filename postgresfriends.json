@@ -294,5 +294,12 @@
 	"Christoph Berg": {
 		"Twitter": ["https://twitter.com/df7cb"],
 		"Mastodon": ["https://mastodon.social/@df7cb"]
+	},
+	"Josh Berkus": {
+		"Twitter": ["https://twitter.com/fuzzychef"],
+		"Tech Blog": ["https://www.databasesoup.com/"],
+		"Food/Pottery Blog": ["http://www.fuzzychef.org/"],
+		"Food/Pottery Instagram": ["https://www.instagram.com/fuzzychefpottery/"],
+		"Mastodon": ["https://m6n.io/@fuzzychef"]
 	}
 }
