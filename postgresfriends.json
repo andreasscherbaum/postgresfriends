@@ -15,6 +15,11 @@
 		"Mastodon": ["https://nrw.social/@psoo"],
 		"LinkedIn": ["https://www.linkedin.com/in/bernd-helmle-a3aaa1209/"]
 	},
+        "Daniel Westermann": {
+                "Mastodon": ["https://mastodon.social/@danielwestermann"],
+                "LinkedIn": ["https://www.linkedin.com/in/daniel-westermann/"],
+                "Blog": ["https://danielwestermann.com/"]
+        },
 	"Fabrízio de Royes Mello": {
 		"Twitter": ["https://twitter.com/fabriziomello"],
 		"LinkedIn": ["https://www.linkedin.com/in/fabriziomello/"]
