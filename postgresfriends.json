@@ -313,5 +313,14 @@
 		"GitHub": ["https://github.com/eumiro"],
 		"LinkedIn": ["https://linkedin.com/in/eumiro"],
 		"Mastodon": ["https://mas.to/@eumiro"]
+	},
+	"Pavlo Golub": {
+		"Blog": ["https://pgolub.wordpress.com/"],
+		"GitHub": ["https://github.com/pashagolub"],
+		"LinkedIn": ["https://linkedin.com/in/pashagolub"],
+		"Twitter": ["https://twitter.com/PavloGolub"],
+		"Facebook": ["https://www.facebook.com/pasha.golub"],
+		"Instagram": ["https://www.instagram.com/pasha.golub"],
+		"Company Blog": ["https://www.cybertec-postgresql.com/en/author/cybertec_golub"]
 	}
 }
