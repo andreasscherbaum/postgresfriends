@@ -361,5 +361,311 @@
 		"Facebook": ["https://www.facebook.com/pasha.golub"],
 		"Instagram": ["https://www.instagram.com/pasha.golub"],
 		"Company Blog": ["https://www.cybertec-postgresql.com/en/author/cybertec_golub"]
+	},
+	"Antonín Houska": {
+		"interview": "antonin_houska"
+	},
+	"Bruce Momjian": {
+		"interview": "bruce_momjian"
+	},
+	"Vigneshwaran C": {
+		"interview": "vigneshwaran_c"
+	},
+	"Andrey Borodin": {
+		"interview": "andrey_borodin"
+	},
+	"Abbas Butt": {
+		"interview": "abbas_butt"
+	},
+	"Haki Benita": {
+		"interview": "haki_benita"
+	},
+	"John Naylor": {
+		"interview": "john_naylor"
+	},
+	"Markus Winand": {
+		"interview": "markus_winand"
+	},
+	"Fabien Coelho": {
+		"interview": "fabien_coelho"
+	},
+	"Hou Zhijie": {
+		"interview": "hou_zhijie"
+	},
+	"Gilberto Castillo": {
+		"interview": "gilberto_castillo"
+	},
+	"Alexander Sosna": {
+		"interview": "alexander_sosna"
+	},
+	"Devrim Gündüz": {
+		"interview": "devrim_gunduz"
+	},
+	"Michael Paquier": {
+		"interview": "michael_paquier"
+	},
+	"Tushar Ahuja": {
+		"interview": "tushar_ahuja"
+	},
+	"Wilfried Roset": {
+		"interview": "wilfried_roset"
+	},
+	"Kuntal Ghosh": {
+		"interview": "kuntal_ghosh"
+	},
+	"Julien Tachoires": {
+		"interview": "julien_tachoires"
+	},
+	"Melanie Plageman": {
+		"interview": "melanie_plageman"
+	},
+	"Michael Brewer": {
+		"interview": "michael_brewer"
+	},
+	"Emil Shkolnik": {
+		"interview": "emil_shkolnik"
+	},
+	"Tatsuo Ishii": {
+		"interview": "tatsuo_ishii"
+	},
+	"Jeevan Ladhe": {
+		"interview": "jeevan_ladhe"
+	},
+	"Abhijit Menon-Sen": {
+		"interview": "abhijit_menon-sen"
+	},
+	"Damien Clochard": {
+		"interview": "damien_clochard"
+	},
+	"Simon Riggs": {
+		"interview": "simon_riggs"
+	},
+	"Corey Huinker": {
+		"interview": "corey_huinker"
+	},
+	"Julian Markwort": {
+		"interview": "julian_markwort"
+	},
+	"Jaime Casanova": {
+		"interview": "jaime_casanova"
+	},
+	"Amit Kapila": {
+		"interview": "amit_kapila"
+	},
+	"Charly Batista": {
+		"interview": "charly_batista"
+	},
+	"Michael Goldberg": {
+		"interview": "michael_goldberg"
+	},
+	"Peter Smith": {
+		"interview": "peter_smith"
+	},
+	"Alexander Kukushkin": {
+		"interview": "alexander_kukushkin"
+	},
+	"Hubert Lubaczewski": {
+		"interview": "hubert_lubaczewski"
+	},
+	"Dmitry Dolgov": {
+		"interview": "dmitry_dolgov"
+	},
+	"Soumyadeep Chakraborty": {
+		"interview": "soumyadeep_chakraborty"
+	},
+	"Ivan Panchenko": {
+		"interview": "ivan_panchenko"
+	},
+	"Gianni Ciolli": {
+		"interview": "gianni_ciolli"
+	},
+	"Taras Kloba": {
+		"interview": "taras_kloba"
+	},
+	"Louise Grandjonc": {
+		"interview": "louise_grandjonc"
+	},
+	"Takayuki Tsunakawa": {
+		"interview": "takayuki_tsunakawa"
+	},
+	"Stefan Keller": {
+		"interview": "stefan_keller"
+	},
+	"Daniele Varrazzo": {
+		"interview": "daniele_varrazzo"
+	},
+	"Sebastiaan Mannem": {
+		"interview": "sebastiaan_mannem"
+	},
+	"Magnus Hagander": {
+		"interview": "magnus_hagander"
+	},
+	"Dave Cramer": {
+		"interview": "dave_cramer"
+	},
+	"Marco Slot": {
+		"interview": "marco_slot"
+	},
+	"Oleksandr Shulgin": {
+		"interview": "oleksandr_shulgin"
+	},
+	"Emre Hasegeli": {
+		"interview": "emre_hasegeli"
+	},
+	"Roman Druzyagin": {
+		"interview": "roman_druzyagin"
+	},
+	"Dimitri Fontaine": {
+		"interview": "dimitri_fontaine"
+	},
+	"Ashutosh Bapat": {
+		"interview": "ashutosh_bapat"
+	},
+	"Guillaume Lelarge": {
+		"interview": "guillaume_lelarge"
+	},
+	"Keith Fiske": {
+		"interview": "keith_fiske"
+	},
+	"Anastasia Lubennikova": {
+		"interview": "anastasia_lubennikova"
+	},
+	"Mark Wong": {
+		"interview": "mark_wong"
+	},
+	"Stacey Haysler": {
+		"interview": "stacey_haysler"
+	},
+	"Kohei Kaigai": {
+		"interview": "kohei_kaigai"
+	},
+	"Charles Clavadetscher": {
+		"interview": "charles_clavadetscher"
+	},
+	"Önder Kalacı": {
+		"interview": "onder_kalaci"
+	},
+	"Georgios Kokolatos": {
+		"interview": "georgios_kokolatos"
+	},
+	"Renee Phillips": {
+		"interview": "renee_phillips"
+	},
+	"Jehan-Guillaume De Rorthais": {
+		"interview": "jehan-guillaume_de_rorthais"
+	},
+	"Valeria Kaplan": {
+		"interview": "valeria_kaplan"
+	},
+	"Vibhor Kumar": {
+		"interview": "vibhor_kumar"
+	},
+	"Beena Emerson": {
+		"interview": "beena_emerson"
+	},
+	"Ibrar Ahmed": {
+		"interview": "ibrar_ahmed"
+	},
+	"Oleksii Kliukin": {
+		"interview": "oleksii_kliukin"
+	},
+	"Tom Kincaid": {
+		"interview": "tom_kincaid"
+	},
+	"Elein Mustain": {
+		"interview": "elein_mustain"
+	},
+	"Julien Riou": {
+		"interview": "julien_riou"
+	},
+	"Tatsuro Yamada": {
+		"interview": "tatsuro_yamada"
+	},
+	"Elizabeth Garrett Christensen": {
+		"interview": "elizabeth_garrett_christensen"
+	},
+	"Nicolas Thauvin": {
+		"interview": "nicolas_thauvin"
+	},
+	"Carole Arnaud": {
+		"interview": "carole_arnaud"
+	},
+	"Masahiko Sawada": {
+		"interview": "masahiko_sawada"
+	},
+	"Kaarel Moppel": {
+		"interview": "kaarel_moppel"
+	},
+	"Amit Langote": {
+		"interview": "amit_langote"
+	},
+	"Laurenz Albe": {
+		"interview": "laurenz_albe"
+	},
+	"Pavel Stehule": {
+		"interview": "pavel_stehule"
+	},
+	"Nikolay Samokhvalov": {
+		"interview": "nikolay_samokhvalov"
+	},
+	"Étienne Bersac": {
+		"interview": "etienne_bersac"
+	},
+	"Pavel Luzanov": {
+		"interview": "pavel_luzanov"
+	},
+	"Marc Linster": {
+		"interview": "marc_linster"
+	},
+	"Bharath Rupireddy": {
+		"interview": "bharath_rupireddy"
+	},
+	"Bryn Llewellyn": {
+		"interview": "bryn_llewellyn"
+	},
+	"Sarah Conway Schnurr": {
+		"interview": "sarah_conway_schnurr"
+	},
+	"Joseph Sciarrino": {
+		"interview": "joseph_sciarrino"
+	},
+	"Umair Shahid": {
+		"interview": "umair_shahid"
+	},
+	"Ilaria Battiston": {
+		"interview": "ilaria_battiston"
+	},
+	"Flavio Gurgel": {
+		"interview": "flavio_gurgel"
+	},
+	"Mladen Marinović": {
+		"interview": "mladen_marinovic"
+	},
+	"Markus Wanner": {
+		"interview": "markus_wanner"
+	},
+	"Christophe Pettus": {
+		"interview": "christophe_pettus"
+	},
+	"Greg Sabino Mullane": {
+		"interview": "greg_sabino_mullane"
+	},
+	"Rafia Sabih": {
+		"interview": "rafia_sabih"
+	},
+	"Stéphane Schildknecht": {
+		"interview": "stephane_schildknecht"
+	},
+	"Jeff Davis": {
+		"interview": "jeff_davis"
+	},
+	"Philippe Beaudoin": {
+		"interview": "philippe_beaudoin"
+	},
+	"Gunnar 'Nick' Bluth": {
+		"interview": "gunnar_bluth"
+	},
+	"Adam Wright": {
+		"interview": "adam_wright"
 	}
 }
