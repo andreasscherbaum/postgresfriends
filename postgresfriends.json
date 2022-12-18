@@ -9,23 +9,28 @@
 		"BeReal": ["https://bere.al/andreas_ads"]
 	},
 	"Andreas Kretschmer": {
+		"interview": "andreas_kretschmer",
 		"Twitter": ["https://twitter.com/AndreasKretsch7"],
 		"Mastodon": ["https://social.anoxinon.de/@akretschmer"]
 	},
 	"Bernd Helmle": {
+		"interview": "bernd_helmle",
 		"Mastodon": ["https://nrw.social/@psoo"],
 		"LinkedIn": ["https://www.linkedin.com/in/bernd-helmle-a3aaa1209/"]
 	},
         "Daniel Westermann": {
+		"interview": "daniel_westermann",
                 "Mastodon": ["https://mastodon.social/@danielwestermann"],
                 "LinkedIn": ["https://www.linkedin.com/in/daniel-westermann/"],
                 "Blog": ["https://danielwestermann.com/"]
         },
 	"Fabrízio de Royes Mello": {
+		"interview": "fabrizio_de_royes_mello",
 		"Twitter": ["https://twitter.com/fabriziomello"],
 		"LinkedIn": ["https://www.linkedin.com/in/fabriziomello/"]
 	},
 	"Joe Conway": {
+		"interview": "joe_conway",
 		"Mastodon": ["https://fosstodon.org/@jconway"],
 		"Twitter": ["https://twitter.com/josepheconway"],
 		"LinkedIn": ["https://www.linkedin.com/in/josepheconway/"]
@@ -35,12 +40,14 @@
 		"Mastodon": ["https://mastodon.social/@xocolatl"]
 	},
 	"Lætitia Avrot": {
+		"interview": "laetitia_avrot",
 		"Mastodon": ["https://fosstodon.org/@l_avrot"],
 		"Twitter": ["https://twitter.com/l_avrot"],
 		"Blog": ["https://mydbanotebook.org/"],
 		"Website": ["https://psql-tips.org/"]
 	},
 	"Paul Ramsey": {
+		"interview": "paul_ramsey",
 		"Blog": ["https://blog.cleverelephant.ca/"],
 		"Mastodon": ["https://mastodon.social/@pwramsey"],
 		"Twitter": ["https://twitter.com/pwramsey"],
@@ -52,22 +59,26 @@
 		"Blog": ["https://proopensource.it/"]
 	},
 	"Federico Campoli": {
+		"interview": "federico_campoli",
 		"Twitter": ["https://twitter.com/4thdoctor_scarf"],
 		"Mastodon": ["https://fosstodon.org/@4thdoctor_scarf"],
 		"Blog": ["https://pgdba.org/"]
 	},
 	"Jimmy Angelakos": {
+		"interview": "jimmy_angelakos",
 		"Mastodon": ["https://fosstodon.org/@vyruss"],
 		"YouTube": ["http://youtube.com/@JimmyAngelakos"],
 		"Blog": ["http://vyruss.org/blog"]
 	},
 	"Regina Obe": {
+		"interview": "regina_obe",
 		"Website": ["https://www.paragoncorporation.com/", "https://www.postgis.us/"],
 		"Blog": ["https://www.bostongis.com/blog", "https://www.postgresonline.com/journal"],
 		"LinkedIn": ["https://www.linkedin.com/in/regina-obe-2000057"],
 		"Twitter": ["https://twitter.com/reginaobe"]
 	},
 	"David E. Wheeler": {
+		"interview": "david_e_wheeler",
 		"Blog": ["https://justatheory.com/"],
 		"Twitter": ["https://twitter.com/theory"],
 		"Instagram": ["https://www.instagram.com/theory/"],
@@ -78,6 +89,7 @@
 		"Mastodon": ["https://xoxo.zone/@theory"]
 	},
 	"Franck Pachot": {
+		"interview": "franck_pachot",
 		"Twitter": ["https://twitter.com/FranckPachot"],
 		"LinkedIn": ["https://www.linkedin.com/in/franckpachot"],
 		"YouTube": ["http://youtube.com/@FranckPachot"],
@@ -85,6 +97,7 @@
 		"Mastodon": ["https://mastodon.social/@FranckPachot"]
 	},
 	"Michael Christofides": {
+		"interview": "michael_christofides",
 		"Twitter": ["https://twitter.com/michristofides"],
 		"LinkedIn": ["https://www.linkedin.com/in/michristofides"],
 		"Blog": ["https://www.pgmustard.com/blog"],
@@ -92,30 +105,36 @@
 		"Postgres FM Podcast": ["https://postgres.fm/"]
 	},
 	"Hironobu Suzuki": {
+		"interview": "hironobu_suzuki",
 		"Twitter": ["https://twitter.com/suzuki_hironobu"],
 		"LinkedIn": ["https://www.linkedin.com/in/hironobu-suzuki-03b69015/"],
 		"Website": ["https://www.interdb.jp/"],
 		"Blog": ["https://www.interdb.jp/blog/"]
 	},
 	"Akshay Joshi": {
+		"interview": "akshay_joshi",
 		"LinkedIn": ["https://www.linkedin.com/in/akshay-joshi-086497216"],
 		"GitHub": ["https://github.com/akshay-joshi"],
 		"Blog": ["https://www.enterprisedb.com/akshay-joshi"]
 	},
 	"Cédric Duprez": {
+		"interview": "cedric_duprez",
 		"LinkedIn": ["https://www.linkedin.com/in/cedric-duprez-5247bb10/"]
 	},
 	"Virginie Jourdan": {
+		"interview": "virginie_jourdan",
 		"Twitter": ["https://twitter.com/JourdanVirginie"],
 		"LinkedIn": ["https://www.linkedin.com/in/virginie-jourdan-1b71b6a/"]
 	},
 	"Henrietta Dombrovskaya": {
+		"interview": "henrietta_dombrovskaya",
 		"Twitter": ["https://twitter.com/HettieDombr"],
 		"Blog": ["https://hdombrovskaya.wordpress.com/"],
 		"Instagram": ["https://www.instagram.com/hettie_rogers_park/"],
 		"LinkedIn": ["https://www.linkedin.com/in/henrietta-dombrovskaya-367b26/"]
 	},
 	"Dave Page": {
+		"interview": "dave_page",
 		"Twitter": ["https://twitter.com/pgsnake"],
 		"Blog": ["https://pgsnake.blogspot.com/", "https://www.enterprisedb.com/dave-page"],
 		"GitHub": ["https://github.com/dpage"],
@@ -123,18 +142,21 @@
 		"Website": ["https://www.pgadmin.org/"]
 	},
 	"Stefan Fercot": {
+		"interview": "stefan_fercot",
 		"Twitter": ["https://twitter.com/pgstef"],
 		"Blog": ["https://pgstef.github.io"],
 		"GitHub": ["https://github.com/pgstef"],
 		"Mastodon": ["https://fosstodon.org/@pgstef"]
 	},
 	"Andrew Dunstan": {
+		"interview": "andrew_dunstan",
 		"Blog": ["https://adpgtech.blogspot.com/search/label/PostgreSQL"],
 		"LinkedIn": ["https://www.linkedin.com/in/andrewdunstan/"],
 		"Facebook": ["https://www.facebook.com/andrew.m.dunstan/"],
 		"Mastodon": ["https://c.im/@amdunstan"]
 	},
 	"Douglas J Hunley": {
+		"interview": "douglas_hunley",
 		"Blog": ["https://hunleyd.github.io/"],
 		"Twitter": ["https://twitter.com/hunleyd"],
 		"LinkedIn": ["https://www.linkedin.com/in/dhunley/"],
@@ -142,10 +164,12 @@
 		"GitHub": ["https://github.com/hunleyd"]
 	},
 	"Laura Ricci": {
+		"interview": "laura_ricci",
 		"LinkedIn": ["https://www.linkedin.com/in/lricci1/"],
 		"Mastodon": ["https://framapiaf.org/@laura_ricci"]
 	},
 	"Jan Karremans": {
+		"interview": "jan_karremans",
 		"Blog": ["https://jk-consult.nl/"],
 		"Twitter": ["https://twitter.com/johnnyq72"],
 		"LinkedIn": ["https://www.linkedin.com/in/jankarremans/"],
@@ -153,6 +177,7 @@
 		"Telegram": ["https://t.me/Johnnyq72"]
 	},
 	"Anthony Nowocien": {
+		"interview": "anthony_nowocien",
 		"LinkedIn": ["https://www.linkedin.com/in/anthony-nowocien"],
 		"Mastodon": ["https://fosstodon.org/@nthony"]
 	},
@@ -160,17 +185,20 @@
 		"Mastodon": ["https://mastodon.social/@PietdeVisser"]
 	},
 	"Claire Giordano": {
+		"interview": "claire_giordano",
 		"Citus Database Blog": ["https://www.citusdata.com/blog/authors/claire-giordano/"],
 		"LinkedIn": ["https://www.linkedin.com/in/claireg/"],
 		"Twitter": ["https://twitter.com/clairegiordano"],
 		"Mastodon": ["https://hachyderm.io/@clairegiordano"]
 	},
 	"Karen Jex": {
+		"interview": "karen_jex",
 		"LinkedIn": ["https://www.linkedin.com/in/karenhjex/"],
 		"Twitter": ["https://twitter.com/Karenhjex"],
 		"Mastodon": ["https://mastodon.online/@karenhjex"]
 	},
 	"Thomas Munro": {
+		"interview": "thomas_munro",
 		"Infrequently updated personal blog": ["https://write-skew.blogspot.com/"],
 		"LinkedIn": ["https://www.linkedin.com/in/thomas-munro-8559201b/"],
 		"Twitter": ["https://twitter.com/MengTangmu"],
@@ -184,6 +212,7 @@
 		"Mastodon": ["https://mastodon.world/@fritshoogland"]
 	},
 	"Tomas Vondra": {
+		"interview": "tomas_vondra",
 		"Company Blog": ["https://www.2ndquadrant.com/blog/author/tomas-vondra/"],
 		"Personal Blog": ["https://blog.pgaddict.com/"],
 		"LinkedIn": ["https://www.linkedin.com/in/tomasvondra/"],
@@ -191,6 +220,7 @@
 		"Mastodon": ["https://fosstodon.org/@tomasv"]
 	},
 	"Adrien Nayrat": {
+		"interview": "adrien_nayrat",
 		"Blog": ["https://blog.anayrat.info/"],
 		"LinkedIn": ["https://www.linkedin.com/in/adriennayrat/"],
 		"Github": ["https://github.com/anayrat"],
@@ -217,6 +247,7 @@
 		"Mastodon": ["https://data-folks.masto.host/@ftisiot"]
 	},
 	"Dan Langille": {
+		"interview": "dan_langille",
 		"Homepage": ["https://www.langille.org/"],
 		"LinkedIn": ["https://www.linkedin.com/in/danlangille/"],
 		"Twitter": ["https://twitter.com/dlangille", "https://twitter.com/pgcon", "https://twitter.com/bsdcan"],
@@ -241,6 +272,7 @@
 		"Mastodon": ["https://mastodon.social/@jpargudo"]
 	},
 	"Julia Gugel": {
+		"interview": "julia_gugel",
 		"LinkedIn": ["https://www.linkedin.com/in/julia-gugel-387b8595/"],
 		"Mastodon": ["https://fosstodon.org/@juliagugel"]
 	},
@@ -251,10 +283,12 @@
 		"Mastodon": ["https://mastodon.social/@lukaseder"]
 	},
 	"Aleš Zelený": {
+		"interview": "ales_zeleny",
 		"LinkedIn": ["https://www.linkedin.com/in/azeleny/"],
 		"Mastodon": ["https://mastodonczech.cz/@AlesZeleny"]
 	},
 	"Tobias Bussmann": {
+		"interview": "tobias_bussmann",
 		"GitHub": ["https://github.com/tbussmann"],
 		"Mastodon": ["https://tooting.ch/@tbussmann"],
 		"Twitter": ["https://twitter.com/TobiasBussmann"]
@@ -269,6 +303,7 @@
 		"Mastodon": ["https://mastodon.social/@DaniloE"]
 	},
 	"Álvaro Herrera": {
+		"interview": "alvaro_herrera",
 		"GitHub": ["https://github.com/alvherre"],
 		"LinkedIn": ["https://linkedin.com/in/alvherre"],
 		"Mastodon": ["https://lile.cl/@alvherre"]
@@ -285,10 +320,12 @@
 		"Mastodon": ["https://mastodon.xyz/@slardiere"]
 	},
 	"Jean-Christophe Arnu": {
+		"interview": "christophe_arnu",
 		"LinkedIn": ["https://www.linkedin.com/in/jean-christophe-arnu/"],
 		"Mastodon": ["https://mastodon.xyz/@jcarnu"]
 	},
 	"Hervé Schweitzer": {
+		"interview": "herve_schweitzer",
 		"LinkedIn": ["https://www.linkedin.com/in/herve-schweitze"],
 		"Twitter": ["https://twitter.com/Herveschweitzer"],
 		"Mastodon": ["https://mastodontech.de/@herveschweitzer"]
@@ -297,10 +334,12 @@
 		"Mastodon": ["https://mastodon.social/@vpicavet"]
 	},
 	"Christoph Berg": {
+		"interview": "christoph_berg",
 		"Twitter": ["https://twitter.com/df7cb"],
 		"Mastodon": ["https://mastodon.social/@df7cb"]
 	},
 	"Josh Berkus": {
+		"interview": "josh_berkus",
 		"Twitter": ["https://twitter.com/fuzzychef"],
 		"Tech Blog": ["https://www.databasesoup.com/"],
 		"Food/Pottery Blog": ["http://www.fuzzychef.org/"],
@@ -314,6 +353,7 @@
 		"Mastodon": ["https://mas.to/@eumiro"]
 	},
 	"Pavlo Golub": {
+		"interview": "pavlo_golub",
 		"Blog": ["https://pgolub.wordpress.com/"],
 		"GitHub": ["https://github.com/pashagolub"],
 		"LinkedIn": ["https://linkedin.com/in/pashagolub"],
