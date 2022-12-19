@@ -646,7 +646,9 @@
 		"interview": "markus_wanner"
 	},
 	"Christophe Pettus": {
-		"interview": "christophe_pettus"
+		"interview": "christophe_pettus",
+		"Twitter": ["https://twitter.com/Xof"],
+		"Mastodon": ["https://fosstodon.org/@cep"]
 	},
 	"Greg Sabino Mullane": {
 		"interview": "greg_sabino_mullane"
