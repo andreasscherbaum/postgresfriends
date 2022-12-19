@@ -577,7 +577,11 @@
 		"interview": "elein_mustain"
 	},
 	"Julien Riou": {
-		"interview": "julien_riou"
+		"interview": "julien_riou",
+		"Website": ["https://julien.riou.xyz/"],
+		"GitHub": ["https://github.com/jouir/"],
+		"LinkedIn": ["https://www.linkedin.com/in/jriou"],
+		"Mastodon": ["https://fosstodon.org/@jriou"]
 	},
 	"Tatsuro Yamada": {
 		"interview": "tatsuro_yamada"
