@@ -674,5 +674,9 @@
 	},
 	"Adam Wright": {
 		"interview": "adam_wright"
+	},
+	"Oleksii Kliukin": {
+		"interview": "oleksii_kliukin",
+		"Mastodon": ["https://fosstodon.org/@hintbits"]
 	}
 }
