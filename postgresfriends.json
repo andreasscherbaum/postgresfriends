@@ -463,7 +463,10 @@
 		"interview": "peter_smith"
 	},
 	"Alexander Kukushkin": {
-		"interview": "alexander_kukushkin"
+		"interview": "alexander_kukushkin",
+		"LinkedIn": ["https://www.linkedin.com/in/cyberdemn/"],
+		"Twitter": ["https://twitter.com/cyberdemn"],
+		"Facebook": ["https://www.facebook.com/alexander.kukushkin.90"]
 	},
 	"Hubert Lubaczewski": {
 		"interview": "hubert_lubaczewski"
