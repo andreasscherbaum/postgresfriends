@@ -403,7 +403,11 @@
 		"interview": "devrim_gunduz"
 	},
 	"Michael Paquier": {
-		"interview": "michael_paquier"
+		"interview": "michael_paquier",
+		"Blog": ["https://paquier.xyz/"],
+		"GitHub": ["http://github.com/michaelpq/"],
+		"Mastodon": ["https://fosstodon.org/@michaelpq"],
+		"Twitter": ["https://twitter.com/michaelpq"]
 	},
 	"Tushar Ahuja": {
 		"interview": "tushar_ahuja"
