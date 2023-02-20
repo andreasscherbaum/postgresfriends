@@ -481,7 +481,9 @@
 		"interview": "hubert_lubaczewski"
 	},
 	"Dmitry Dolgov": {
-		"interview": "dmitry_dolgov"
+		"interview": "dmitry_dolgov",
+		"Blog": ["https://erthalion.info/blog/"],
+		"Mastodon": ["https://fosstodon.org/@erthalion"]
 	},
 	"Soumyadeep Chakraborty": {
 		"interview": "soumyadeep_chakraborty"
