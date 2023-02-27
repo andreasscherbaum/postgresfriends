@@ -692,5 +692,11 @@
 	"Oleksii Kliukin": {
 		"interview": "oleksii_kliukin",
 		"Mastodon": ["https://fosstodon.org/@hintbits"]
+	},
+	"Thom Brown": {
+		"interview": "thom_brown",
+		"LinkedIn": ["https://www.linkedin.com/in/thom-brown-uk"],
+		"Mastodon": ["https://mastodonapp.uk/@darkixion"],
+		"Blog": ["https://thombrown.blogspot.com/"]
 	}
 }
