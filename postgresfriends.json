@@ -549,7 +549,9 @@
 		"interview": "mark_wong"
 	},
 	"Stacey Haysler": {
-		"interview": "stacey_haysler"
+		"interview": "stacey_haysler",
+		"LinkedIn": ["https://www.linkedin.com/in/stacey-haysler-31b06998/"],
+		"Mastodon": ["https://fosstodon.org/@shaysler"]
 	},
 	"Kohei Kaigai": {
 		"interview": "kohei_kaigai"
