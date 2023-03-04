@@ -590,7 +590,8 @@
 		"interview": "tom_kincaid"
 	},
 	"Elein Mustain": {
-		"interview": "elein_mustain"
+		"interview": "elein_mustain",
+		"Mastodon": ["https://sfba.social/@elein"]
 	},
 	"Julien Riou": {
 		"interview": "julien_riou",
