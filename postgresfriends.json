@@ -336,7 +336,11 @@
 		"Mastodon": ["https://mastodontech.de/@herveschweitzer"]
 	},
 	"Vincent Picavet": {
-		"Mastodon": ["https://mastodon.social/@vpicavet"]
+		"interview": "herve_schweitzer",
+		"LinkedIn": ["https://www.linkedin.com/in/vincentpicavet/"],
+		"Twitter": ["https://twitter.com/vpicavet"],
+		"Mastodon": ["https://mastodon.social/@vpicavet"],
+		"Blog": ["https://oslandia.com/articles/"]
 	},
 	"Christoph Berg": {
 		"interview": "christoph_berg",
