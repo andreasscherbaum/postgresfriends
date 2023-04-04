@@ -32,6 +32,12 @@
 		"Twitter": ["https://twitter.com/fabriziomello"],
 		"LinkedIn": ["https://www.linkedin.com/in/fabriziomello/"]
 	},
+	"Floor Drees": {
+		"Twitter": ["https://twitter.com/floordrees"],
+                "Mastodon": ["https://hachyderm.io/@floord"],
+                "LinkedIn": ["https://www.linkedin.com/in/floordrees/"],
+                "Blog": ["https://dev.to/floord/"]
+        },
 	"Joe Conway": {
 		"interview": "joe_conway",
 		"Mastodon": ["https://fosstodon.org/@jconway"],
