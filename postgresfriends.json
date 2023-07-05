@@ -525,7 +525,8 @@
 		"interview": "magnus_hagander"
 	},
 	"Dave Cramer": {
-		"interview": "dave_cramer"
+		"interview": "dave_cramer",
+		"Mastodon": ["https://mastodon.social/@dave_cramer"]
 	},
 	"Marco Slot": {
 		"interview": "marco_slot"
