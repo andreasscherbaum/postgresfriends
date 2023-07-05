@@ -436,7 +436,10 @@
 		"interview": "julien_tachoires"
 	},
 	"Melanie Plageman": {
-		"interview": "melanie_plageman"
+		"interview": "melanie_plageman",
+		"GitHub": ["https://github.com/melanieplageman/"],
+		"Mastodon": ["https://mastodon.social/@melanieplageman"],
+		"LinkedIn": ["https://www.linkedin.com/in/melanieplageman/"]
 	},
 	"Michael Brewer": {
 		"interview": "michael_brewer"
