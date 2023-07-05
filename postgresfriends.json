@@ -374,7 +374,8 @@
 		"Twitter": ["https://twitter.com/PavloGolub"],
 		"Facebook": ["https://www.facebook.com/pasha.golub"],
 		"Instagram": ["https://www.instagram.com/pasha.golub"],
-		"Company Blog": ["https://www.cybertec-postgresql.com/en/author/cybertec_golub"]
+		"Company Blog": ["https://www.cybertec-postgresql.com/en/author/cybertec_golub"],
+		"Mastodon": ["https://fosstodon.org/@PavloGolub"]
 	},
 	"Antonín Houska": {
 		"interview": "antonin_houska"
