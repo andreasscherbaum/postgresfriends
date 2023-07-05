@@ -710,5 +710,12 @@
 		"LinkedIn": ["https://www.linkedin.com/in/thom-brown-uk"],
 		"Mastodon": ["https://mastodonapp.uk/@darkixion"],
 		"Blog": ["https://thombrown.blogspot.com/"]
+	},
+	"Jonathan Katz": {
+		"Mastodon": ["https://fosstodon.org/@jkatz05"],
+		"LinkedIn": ["https://www.linkedin.com/in/jonathan-katz-6495532/"],
+		"Twitter": ["https://twitter.com/jkatz05"],
+		"GitHub": ["https://github.com/jkatz"],
+		"Blog": ["https://jkatz05.com/"]
 	}
 }
