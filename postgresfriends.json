@@ -663,7 +663,9 @@
 		"interview": "sarah_conway_schnurr"
 	},
 	"Joseph Sciarrino": {
-		"interview": "joseph_sciarrino"
+		"interview": "joseph_sciarrino",
+		"LinkedIn": ["https://www.linkedin.com/in/jsciarrino12/"],
+		"Twitter": ["https://twitter.com/JoeSciarrino"]
 	},
 	"Umair Shahid": {
 		"interview": "umair_shahid"
