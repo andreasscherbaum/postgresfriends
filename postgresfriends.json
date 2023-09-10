@@ -325,6 +325,7 @@
 		"Mastodon": ["https://mastodon.xyz/@mbanck"]
 	},
 	"Sébastien Lardière": {
+		"interview": "sebastien_lardiere",
 		"Blog": ["https://sebastien.lardiere.net/blog/index.php/category/Postgresql"],
 		"Twitter": ["https://twitter.com/slardiere"],
 		"Mastodon": ["https://mastodon.xyz/@slardiere"]
