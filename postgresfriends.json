@@ -745,5 +745,10 @@
 		"GitHub": ["https://www.github.com/ryanbooz"],
 		"Blog": ["https://www.softwareandbooz.com/"],
 		"Website": ["https://www.pgsqlphriday.com/"]
+	},
+	"Samay Sharma": {
+		"interview": "samay_sharma",
+		"Twitter": ["https://twitter.com/samay_sharma"],
+		"LinkedIn": ["https://www.linkedin.com/in/samay-sharma-b6465122/"]
 	}
 }
