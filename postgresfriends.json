@@ -575,7 +575,10 @@
 		"interview": "charles_clavadetscher"
 	},
 	"Önder Kalacı": {
-		"interview": "onder_kalaci"
+		"interview": "onder_kalaci",
+		"LinkedIn": ["https://www.linkedin.com/in/%C3%B6nder-kalac%C4%B1-91945339"],
+		"Twitter": ["https://twitter.com/onderkalaci"],
+		"Blog": ["https://www.citusdata.com/blog/authors/onder-kalaci/"]
 	},
 	"Georgios Kokolatos": {
 		"interview": "georgios_kokolatos"
