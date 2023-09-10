@@ -722,5 +722,10 @@
 		"Twitter": ["https://twitter.com/jkatz05"],
 		"GitHub": ["https://github.com/jkatz"],
 		"Blog": ["https://jkatz05.com/"]
+	},
+	"David Christensen": {
+		"interview": "david_christensen",
+		"Twitter": ["https://twitter.com/pg_dwc"],
+		"LinkedIn": ["https://www.linkedin.com/in/david-christensen-66bb8920/"]
 	}
 }
