@@ -736,5 +736,14 @@
 	"Carlos Chapi": {
 		"interview": "carlos_chapi",
 		"LinkedIn": ["https://www.linkedin.com/in/carlos-chapi/"]
+	},
+	"Ryan Booz": {
+		"interview": "ryan_booz",
+		"Twitter": ["https://twitter.com/ryanbooz"],
+		"Mastodon": ["https://dataplatform.social/@ryanbooz"],
+		"LinkedIn": ["https://www.linkedin.com/in/ryanbooz/"],
+		"GitHub": ["https://www.github.com/ryanbooz"],
+		"Blog": ["https://www.softwareandbooz.com/"],
+		"Website": ["https://www.pgsqlphriday.com/"]
 	}
 }
