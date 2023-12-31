@@ -623,7 +623,8 @@
 		"interview": "tatsuro_yamada"
 	},
 	"Elizabeth Garrett Christensen": {
-		"interview": "elizabeth_garrett_christensen"
+		"interview": "elizabeth_garrett_christensen",
+		"Mastodon": ["https://fosstodon.org/@sqlliz"]
 	},
 	"Nicolas Thauvin": {
 		"interview": "nicolas_thauvin"
