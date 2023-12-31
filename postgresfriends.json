@@ -40,8 +40,7 @@
         },
 	"Joe Conway": {
 		"interview": "joe_conway",
-		"Mastodon": ["https://fosstodon.org/@jconway"],
-		"Mastodon": ["https://mastodon.social/@josepheconway"],
+		"Mastodon": ["https://fosstodon.org/@jconway", "https://mastodon.social/@josepheconway"],
 		"Twitter": ["https://twitter.com/josepheconway"],
 		"LinkedIn": ["https://www.linkedin.com/in/josepheconway/"]
 	},
