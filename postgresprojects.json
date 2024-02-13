@@ -30,5 +30,13 @@
 	"PostgreSQL.fr": {
 		"Webite": ["https://postgresql.fr/"],
 		"Mastodon": ["https://framapiaf.org/@postgresqlfr"]
+	},
+	"PGConf.EU": {
+		"Webite": ["https://pgconf.eu/"],
+		"Mastodon": ["https://mastodon.social/@pgconfeu"]
+	},
+	"pgDay Paris": {
+		"Webite": ["https://pgday.paris/"],
+		"Mastodon": ["https://mastodon.social/@pgdayparis"]
 	}
 }
