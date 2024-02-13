@@ -35,19 +35,37 @@ jobs:
         run: echo "${{ steps.pwd.outputs.PWD }}"
 
 
-      - name: Verify JSON
+      - name: Verify JSON postgresfriends.json
         run: jq -e "." < postgresfriends.json > /dev/null
 
       - name: Verify postgresfriends.json data integrity
         run: ./bin/verify-data.py < postgresfriends.json > /dev/null
 
-      - name: Find 'Mastadon' in file
+      - name: Find 'Mastadon' in postgresfriends.json file
         run: echo "COUNT=$(grep -c 'Mastadon' postgresfriends.json)" >>$GITHUB_OUTPUT
-        id: mastadon_count
+        id: mastadon_count_friends
 
       - name: Show 'Mastadon' word count
-        run: echo "${{ steps.mastadon_count.outputs.COUNT }}"
+        run: echo "${{ steps.mastadon_count_friends.outputs.COUNT }}"
 
       - name: Break if word 'Mastadon' is found
         run: exit 1
-        if: steps.mastadon_count.outputs.COUNT != '0'
+        if: steps.mastadon_count_friends.outputs.COUNT != '0'
+
+
+      - name: Verify JSON postgresprojects.json
+        run: jq -e "." < postgresprojects.json > /dev/null
+
+      - name: Verify postgresprojects.json data integrity
+        run: ./bin/verify-data.py < postgresprojects.json > /dev/null
+
+      - name: Find 'Mastadon' in postgresprojects.json file
+        run: echo "COUNT=$(grep -c 'Mastadon' postgresprojects.json)" >>$GITHUB_OUTPUT
+        id: mastadon_count_projects
+
+      - name: Show 'Mastadon' word count
+        run: echo "${{ steps.mastadon_count_projects.outputs.COUNT }}"
+
+      - name: Break if word 'Mastadon' is found
+        run: exit 1
+        if: steps.mastadon_count_projects.outputs.COUNT != '0'
