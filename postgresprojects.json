@@ -1,0 +1,34 @@
+{
+	"PostgreSQL User Group Belgium": {
+		"Metup": ["https://www.meetup.com/postgresbe/"],
+		"Mastodon": ["https://mastodon.world/@postgresqlBE"]
+	},
+	"PGCon": {
+		"Webite": ["https://pgcon.org/"],
+		"Mastodon": ["https://mastodon.social/@pgcon"]
+	},
+	"PostgreSQL Conference Germany": {
+		"Webite": ["https://pgconf.de/"],
+		"Mastodon": ["https://fosstodon.org/@pgconfde"]
+	},
+	"Swiss PGDay": {
+		"Webite": ["https://www.pgday.ch/"],
+		"Mastodon": ["https://fosstodon.org/@Swiss_PGDay"]
+	},
+	"PgUS": {
+		"Webite": ["https://postgresql.us/"],
+		"Mastodon": ["https://fosstodon.org/@pgus"]
+	},
+	"PGConf.dev": {
+		"Webite": ["https://pgconf.dev/"],
+		"Mastodon": ["https://mastodon.social/@pgconfdev"]
+	},
+	"PGDay UK": {
+		"Webite": ["https://pgday.uk/"],
+		"Mastodon": ["https://fosstodon.org/@postgresuk"]
+	},
+	"PostgreSQL.fr": {
+		"Webite": ["https://postgresql.fr/"],
+		"Mastodon": ["https://framapiaf.org/@postgresqlfr"]
+	}
+}
