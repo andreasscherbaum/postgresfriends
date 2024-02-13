@@ -199,7 +199,9 @@
 		"Citus Database Blog": ["https://www.citusdata.com/blog/authors/claire-giordano/"],
 		"LinkedIn": ["https://www.linkedin.com/in/claireg/"],
 		"Twitter": ["https://twitter.com/clairegiordano"],
-		"Mastodon": ["https://hachyderm.io/@clairegiordano"]
+		"Mastodon": ["https://hachyderm.io/@clairegiordano", "https://mastodon.social/@clairegiordano"],
+		"Threads": ["https://www.threads.net/@clairegiordano"],
+		"GitHub": ["https://github.com/clairegiordano"]
 	},
 	"Karen Jex": {
 		"interview": "karen_jex",
@@ -254,14 +256,14 @@
 		"Website": ["https://ftisiot.net/"],
 		"LinkedIn": ["https://www.linkedin.com/in/francescotisiot"],
 		"Twitter": ["https://www.twitter.com/ftisiot"],
-		"Mastodon": ["https://data-folks.masto.host/@ftisiot"]
+		"Mastodon": ["https://data-folks.masto.host/@ftisiot", "https://hachyderm.io/@ftisiot"]
 	},
 	"Dan Langille": {
 		"interview": "dan_langille",
 		"Homepage": ["https://www.langille.org/"],
 		"LinkedIn": ["https://www.linkedin.com/in/danlangille/"],
 		"Twitter": ["https://twitter.com/dlangille", "https://twitter.com/pgcon", "https://twitter.com/bsdcan"],
-		"Mastodon": ["https://bsd.network/@dvl", "https://mastodon.social/@pgcon", "https://bsd.network/@bsdcan"],
+		"Mastodon": ["https://bsd.network/@dvl", "https://mastodon.social/@dvl", "https://mastodon.social/@pgcon", "https://bsd.network/@bsdcan"],
 		"Blog": ["https://dan.langille.org/"],
 		"FreshPorts blog": ["https://news.freshports.org/"],
 		"BSDCan": ["https://www.bsdcan.org/"],
@@ -413,10 +415,12 @@
 		"interview": "gilberto_castillo"
 	},
 	"Alexander Sosna": {
-		"interview": "alexander_sosna"
+		"interview": "alexander_sosna",
+		"Mastodon": ["https://chaos.social/@xxorde"]
 	},
 	"Devrim Gündüz": {
-		"interview": "devrim_gunduz"
+		"interview": "devrim_gunduz",
+		"Mastodon": ["https://mastodon.cloud/@devrimgunduz"]
 	},
 	"Michael Paquier": {
 		"interview": "michael_paquier",
@@ -459,7 +463,8 @@
 		"interview": "abhijit_menon-sen"
 	},
 	"Damien Clochard": {
-		"interview": "damien_clochard"
+		"interview": "damien_clochard",
+		"Mastodon": ["https://framapiaf.org/@daamien"]
 	},
 	"Simon Riggs": {
 		"interview": "simon_riggs"
@@ -519,7 +524,8 @@
 		"interview": "takayuki_tsunakawa"
 	},
 	"Stefan Keller": {
-		"interview": "stefan_keller"
+		"interview": "stefan_keller",
+		"Mastodon": ["https://mastodon.social/@sfkeller"]
 	},
 	"Daniele Varrazzo": {
 		"interview": "daniele_varrazzo"
@@ -606,18 +612,19 @@
 		"interview": "oleksii_kliukin"
 	},
 	"Tom Kincaid": {
-		"interview": "tom_kincaid"
+		"interview": "tom_kincaid",
+		"Mastodon": ["https://nerdculture.de/@tjkincaid"]
 	},
 	"Elein Mustain": {
 		"interview": "elein_mustain",
-		"Mastodon": ["https://sfba.social/@elein"]
+		"Mastodon": ["https://sfba.social/@elein", "https://mastodon.social/@elein"]
 	},
 	"Julien Riou": {
 		"interview": "julien_riou",
 		"Website": ["https://julien.riou.xyz/"],
 		"GitHub": ["https://github.com/jouir/"],
 		"LinkedIn": ["https://www.linkedin.com/in/jriou"],
-		"Mastodon": ["https://fosstodon.org/@jriou"]
+		"Mastodon": ["https://fosstodon.org/@jriou", "https://hachyderm.io/@jriou"]
 	},
 	"Tatsuro Yamada": {
 		"interview": "tatsuro_yamada"
@@ -674,7 +681,8 @@
 		"Twitter": ["https://twitter.com/JoeSciarrino"]
 	},
 	"Umair Shahid": {
-		"interview": "umair_shahid"
+		"interview": "umair_shahid",
+		"Mastodon": ["https://mastodon.social/@umairshahid"]
 	},
 	"Ilaria Battiston": {
 		"interview": "ilaria_battiston"
@@ -721,7 +729,7 @@
 	"Thom Brown": {
 		"interview": "thom_brown",
 		"LinkedIn": ["https://www.linkedin.com/in/thom-brown-uk"],
-		"Mastodon": ["https://mastodonapp.uk/@darkixion"],
+		"Mastodon": ["https://mastodonapp.uk/@darkixion", "https://thebene.fit/@darkixion"],
 		"Blog": ["https://thombrown.blogspot.com/"]
 	},
 	"Jonathan Katz": {
@@ -764,5 +772,26 @@
 		"Mastodon": ["https://mastodon.social/@Afsanean"],
 		"Twitter": ["https://twitter.com/AfsaneAnand"],
 		"LinkedIn": ["https://www.linkedin.com/in/%F0%9F%8D%80afsane-anand-70641112b/"]
+	},
+	"Robert J.C. Ivens": {
+		"Mastodon": ["https://fosstodon.org/@roclasi"]
+	},
+	"Astrid Emde": {
+		"Mastodon": ["https://mastodon.social/@astroidex"]
+	},
+	"Selena Deckelmann": {
+		"Mastodon": ["https://fiasco.social/@selenamarie"]
+	},
+	"Ian Barwick": {
+		"Mastodon": ["https://mstdn.social/@ian_barwick"]
+	},
+	"Ruud Schilders": {
+		"Mastodon": ["https://mastodon.world/@ruud"]
+	},
+	"Valentine Gogichashvili": {
+		"Mastodon": ["https://mastodon.social/@valgog"]
+	},
+	"Divya Sharma": {
+		"Mastodon": ["https://mastodon.social/@DivyaPG"]
 	}
 }

@@ -16,3 +16,16 @@ then
     echo "String 'Mastadon' found in postgresfriends.json"
     exit 1
 fi
+
+echo "Check postgresprojects.json syntax ..."
+jq -e "." < postgresprojects.json > /dev/null
+
+echo "Verifying postgresprojects.json data ..."
+./bin/verify-data.py < postgresprojects.json
+
+echo "Check for 'Mastadon' instead of 'Mastodon' ..."
+if grep -q 'Mastadon' postgresprojects.json;
+then
+    echo "String 'Mastadon' found in postgresprojects.json"
+    exit 1
+fi
