@@ -38,5 +38,9 @@
 	"pgDay Paris": {
 		"Webite": ["https://pgday.paris/"],
 		"Mastodon": ["https://mastodon.social/@pgdayparis"]
+	},
+	"POSETTE: An Event for Postgres": {
+		"Webite": ["https://www.citusdata.com/posette/"],
+		"Mastodon": ["https://mastodon.social/@posetteconf"]
 	}
 }
