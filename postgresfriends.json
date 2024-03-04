@@ -792,6 +792,8 @@
 		"Mastodon": ["https://mastodon.social/@valgog"]
 	},
 	"Divya Sharma": {
-		"Mastodon": ["https://mastodon.social/@DivyaPG"]
+		"interview": "divya_sharma",
+		"Mastodon": ["https://mastodon.social/@DivyaPG"],
+		"LinkedIn": ["https://www.linkedin.com/in/divyasharma95/"]
 	}
 }
