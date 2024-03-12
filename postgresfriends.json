@@ -795,5 +795,10 @@
 		"interview": "divya_sharma",
 		"Mastodon": ["https://mastodon.social/@DivyaPG"],
 		"LinkedIn": ["https://www.linkedin.com/in/divyasharma95/"]
+	},
+	"Artur Zakirov": {
+		"interview": "artur_zakirov",
+		"LinkedIn": ["https://www.linkedin.com/in/za-arthur/"],
+		"GitHub": ["https://github.com/za-arthur"]
 	}
 }
