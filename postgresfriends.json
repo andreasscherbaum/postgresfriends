@@ -800,5 +800,9 @@
 		"interview": "artur_zakirov",
 		"LinkedIn": ["https://www.linkedin.com/in/za-arthur/"],
 		"GitHub": ["https://github.com/za-arthur"]
+	},
+	"Florent Jardin": {
+		"interview": "florent_jardin",
+		"Blog": ["https://fljd.in/en/"]
 	}
 }
