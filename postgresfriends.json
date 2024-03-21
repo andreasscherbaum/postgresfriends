@@ -803,6 +803,7 @@
 	},
 	"Florent Jardin": {
 		"interview": "florent_jardin",
-		"Blog": ["https://fljd.in/en/"]
+		"Blog": ["https://fljd.in/en/"],
+		"Mastodon": ["https://fosstodon.org/@fljdin"]
 	}
 }
