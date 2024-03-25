@@ -805,5 +805,12 @@
 		"interview": "florent_jardin",
 		"Blog": ["https://fljd.in/en/"],
 		"Mastodon": ["https://fosstodon.org/@fljdin"]
+	},
+	"Grant Fritchey": {
+		"interview": "grant_fritchey",
+		"Blog": ["https://scarydba.com"],
+		"Twitter": ["https://twitter.com/GFritchey"],
+		"Facebook": ["https://www.facebook.com/GFritchey"],
+		"LinkedIn": ["https://www.linkedin.com/in/grant-fritchey/"]
 	}
 }
