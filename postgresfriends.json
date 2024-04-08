@@ -812,5 +812,12 @@
 		"Twitter": ["https://twitter.com/GFritchey"],
 		"Facebook": ["https://www.facebook.com/GFritchey"],
 		"LinkedIn": ["https://www.linkedin.com/in/grant-fritchey/"]
+	},
+	"Jonah H. Harris": {
+		"interview": "jonah_h._harris",
+		"Blog": ["https://oracle-internals.com/"],
+		"Mastodon": ["https://mastodon.social/@jonahharris"],
+		"Twitter": ["https://twitter.com/jonahharris"],
+		"LinkedIn": ["https://www.linkedin.com/in/jonahharris/"]
 	}
 }
