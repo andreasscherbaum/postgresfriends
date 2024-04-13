@@ -42,5 +42,9 @@
 	"POSETTE: An Event for Postgres": {
 		"Webite": ["https://www.citusdata.com/posette/"],
 		"Mastodon": ["https://mastodon.social/@posetteconf"]
+	},
+	"BayAreaPostgres": {
+		"Webite": ["https://www.meetup.com/postgresql-1/"],
+		"Mastodon": ["https://fosstodon.org/@BayAreaPostgres"]
 	}
 }
