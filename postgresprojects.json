@@ -4,47 +4,47 @@
 		"Mastodon": ["https://mastodon.world/@postgresqlBE"]
 	},
 	"PGCon": {
-		"Webite": ["https://pgcon.org/"],
+		"Website": ["https://pgcon.org/"],
 		"Mastodon": ["https://mastodon.social/@pgcon"]
 	},
 	"PostgreSQL Conference Germany": {
-		"Webite": ["https://pgconf.de/"],
+		"Website": ["https://pgconf.de/"],
 		"Mastodon": ["https://fosstodon.org/@pgconfde"]
 	},
 	"Swiss PGDay": {
-		"Webite": ["https://www.pgday.ch/"],
+		"Website": ["https://www.pgday.ch/"],
 		"Mastodon": ["https://fosstodon.org/@Swiss_PGDay"]
 	},
 	"PgUS": {
-		"Webite": ["https://postgresql.us/"],
+		"Website": ["https://postgresql.us/"],
 		"Mastodon": ["https://fosstodon.org/@pgus"]
 	},
 	"PGConf.dev": {
-		"Webite": ["https://pgconf.dev/"],
+		"Website": ["https://pgconf.dev/"],
 		"Mastodon": ["https://mastodon.social/@pgconfdev"]
 	},
 	"PGDay UK": {
-		"Webite": ["https://pgday.uk/"],
+		"Website": ["https://pgday.uk/"],
 		"Mastodon": ["https://fosstodon.org/@postgresuk"]
 	},
 	"PostgreSQL.fr": {
-		"Webite": ["https://postgresql.fr/"],
+		"Website": ["https://postgresql.fr/"],
 		"Mastodon": ["https://framapiaf.org/@postgresqlfr"]
 	},
 	"PGConf.EU": {
-		"Webite": ["https://pgconf.eu/"],
+		"Website": ["https://pgconf.eu/"],
 		"Mastodon": ["https://mastodon.social/@pgconfeu"]
 	},
 	"pgDay Paris": {
-		"Webite": ["https://pgday.paris/"],
+		"Website": ["https://pgday.paris/"],
 		"Mastodon": ["https://mastodon.social/@pgdayparis"]
 	},
 	"POSETTE: An Event for Postgres": {
-		"Webite": ["https://www.citusdata.com/posette/"],
+		"Website": ["https://www.citusdata.com/posette/"],
 		"Mastodon": ["https://mastodon.social/@posetteconf"]
 	},
 	"BayAreaPostgres": {
-		"Webite": ["https://www.meetup.com/postgresql-1/"],
+		"Website": ["https://www.meetup.com/postgresql-1/"],
 		"Mastodon": ["https://fosstodon.org/@BayAreaPostgres"]
 	}
 }
