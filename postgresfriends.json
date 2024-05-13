@@ -819,5 +819,11 @@
 		"Mastodon": ["https://mastodon.social/@jonahharris"],
 		"Twitter": ["https://twitter.com/jonahharris"],
 		"LinkedIn": ["https://www.linkedin.com/in/jonahharris/"]
+	},
+	"Philip Marks": {
+		"interview": "philip_marks",
+		"Twitter": ["https://twitter.com/PhilipMarks"],
+		"LinkedIn": ["https://www.linkedin.com/in/philipmarks/"],
+		"Website": ["https://www.synchro-europe.com/"]
 	}
 }
