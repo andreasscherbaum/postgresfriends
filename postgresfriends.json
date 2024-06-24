@@ -825,5 +825,9 @@
 		"Twitter": ["https://twitter.com/PhilipMarks"],
 		"LinkedIn": ["https://www.linkedin.com/in/philipmarks/"],
 		"Website": ["https://www.synchro-europe.com/"]
+	},
+	"Derk van Veen": {
+		"interview": "derk_van_veen",
+		"LinkedIn": ["https://www.linkedin.com/in/derk-van-veen-database-specialist/"]
 	}
 }
