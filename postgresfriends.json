@@ -829,5 +829,10 @@
 	"Derk van Veen": {
 		"interview": "derk_van_veen",
 		"LinkedIn": ["https://www.linkedin.com/in/derk-van-veen-database-specialist/"]
+	},
+	"Dilip Kumar": {
+		"interview": "dilip_kumar",
+		"LinkedIn": ["https://www.linkedin.com/in/dilip-kumar-6b75863a/"],
+		"Blog": ["https://www.enterprisedb.com/blog/author/dilip-kumar"]
 	}
 }
