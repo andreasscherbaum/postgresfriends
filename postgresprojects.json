@@ -50,5 +50,9 @@
 	"PGDay Lowlands": {
 		"Website": ["https://pgday.nl/"],
 		"Mastodon": ["https://hachyderm.io/@pgdaylowlands"]
+	},
+	"DBA Appreciation Day": {
+		"Website": ["https://dbaday.org/"],
+		"Mastodon": ["https://mastodon.social/@dbaday"]
 	}
 }
