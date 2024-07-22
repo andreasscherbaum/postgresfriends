@@ -56,6 +56,6 @@
 		"Mastodon": ["https://mastodon.social/@dbaday"]
 	},
 	"postgres-contrib.org | Contributions to the PostgreSQL Project": {
-		"Website": ["https://postgres-contrib.org/"],
+		"Website": ["https://postgres-contrib.org/"]
 	}
 }
