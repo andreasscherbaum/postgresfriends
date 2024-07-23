@@ -57,5 +57,9 @@
 	},
 	"postgres-contrib.org | Contributions to the PostgreSQL Project": {
 		"Website": ["https://postgres-contrib.org/"]
+	},
+	"PGConf.NYC": {
+		"Website": ["https://pgconf.nyc/"],
+		"Mastodon": ["https://fosstodon.org/@pgconfnyc"]
 	}
 }
