@@ -673,7 +673,9 @@
 		"interview": "bryn_llewellyn"
 	},
 	"Sarah Conway Schnurr": {
-		"interview": "sarah_conway_schnurr"
+		"interview": "sarah_conway_schnurr",
+		"Mastodon": ["https://hachyderm.io/@talktomeabouttech"],
+		"LinkedIn": ["https://www.linkedin.com/in/sarah-conway-schnurr-05785570/"]
 	},
 	"Joseph Sciarrino": {
 		"interview": "joseph_sciarrino",
