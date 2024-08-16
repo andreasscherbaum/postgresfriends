@@ -690,7 +690,9 @@
 		"interview": "ilaria_battiston"
 	},
 	"Flavio Gurgel": {
-		"interview": "flavio_gurgel"
+		"interview": "flavio_gurgel",
+		"Mastodon": ["https://piaille.fr/@flavio"],
+		"LinkedIn": ["www.linkedin.com/in/flavio-gurgel"]
 	},
 	"Mladen Marinović": {
 		"interview": "mladen_marinovic"
