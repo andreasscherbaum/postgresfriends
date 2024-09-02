@@ -842,5 +842,9 @@
 	"Ozgun Erdogan": {
 		"interview": "ozgun_erdogan",
 		"LinkedIn": ["https://www.linkedin.com/in/ozgune/"]
+	},
+	"Amul Sul": {
+		"interview": "amul_sul",
+		"LinkedIn": ["https://www.linkedin.com/in/sulamul"]
 	}
 }
