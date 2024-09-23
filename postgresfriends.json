@@ -846,5 +846,11 @@
 	"Amul Sul": {
 		"interview": "amul_sul",
 		"LinkedIn": ["https://www.linkedin.com/in/sulamul"]
+	},
+	"Nicolas Payart": {
+		"interview": "nicolas_payart",
+		"LinkedIn": ["https://www.linkedin.com/in/nicolas-payart"],
+		"DBA StackExchange": ["https://dba.stackexchange.com/users/5461/nicolas-payart"],
+		"GitHub": ["https://github.com/koleo"]
 	}
 }
