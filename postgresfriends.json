@@ -855,5 +855,12 @@
 	},
 	"Vasilis Ventirozos": {
 		"interview": "vasilis_ventirozos"
+	},
+	"Yurii Rashkovskii": {
+		"interview": "yurii_rashkovskii",
+		"LinkedIn": ["https://www.linkedin.com/in/yrashk/"],
+		"Mastodon": ["https://discuss.systems/@yrashk"],
+		"Website": ["https://yrashk.com/"],
+		"Twitter": ["https://twitter.com/yrashk"]
 	}
 }
