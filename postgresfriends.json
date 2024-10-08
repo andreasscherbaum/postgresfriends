@@ -712,7 +712,8 @@
 		"interview": "rafia_sabih"
 	},
 	"Stéphane Schildknecht": {
-		"interview": "stephane_schildknecht"
+		"interview": "stephane_schildknecht",
+		"Mastodon": ["https://mastodon.social/@saschild"]
 	},
 	"Jeff Davis": {
 		"interview": "jeff_davis"
