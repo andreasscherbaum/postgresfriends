@@ -863,5 +863,9 @@
 		"Mastodon": ["https://discuss.systems/@yrashk"],
 		"Website": ["https://yrashk.com/"],
 		"Twitter": ["https://twitter.com/yrashk"]
+	},
+	"Katharine Saar": {
+		"interview": "katharine_saar",
+		"Mastodon": ["https://fosstodon.org/@katharinesaar"]
 	}
 }
