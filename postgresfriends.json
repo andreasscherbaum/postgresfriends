@@ -867,5 +867,10 @@
 	"Katharine Saar": {
 		"interview": "katharine_saar",
 		"Mastodon": ["https://fosstodon.org/@katharinesaar"]
+	},
+	"Rushabh Lathia": {
+		"interview": "rushabh_lathia",
+		"LinkedIn": ["https://www.linkedin.com/in/rushabh-lathia-3bb8616"],
+		"Twitter": ["https://twitter.com/rlathia"]
 	}
 }
