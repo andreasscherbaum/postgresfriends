@@ -878,5 +878,10 @@
 	},
 	"Evan Hunter Stanton": {
 		"Mastodon": ["https://fosstodon.org/@ehstanton"]
+	},
+	"Ayse Bilge Ince": {
+		"Mastodon": ["https://mastodon.social/@bilgegunduz"],
+		"Blog": ["https://medium.com/@aysebilgegunduz"],
+		"BlueSky": ["https://bsky.app/profile/bilge.bsky.social"]
 	}
 }
