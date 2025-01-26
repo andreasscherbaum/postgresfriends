@@ -884,5 +884,8 @@
 		"Mastodon": ["https://mastodon.social/@bilgegunduz"],
 		"Blog": ["https://medium.com/@aysebilgegunduz"],
 		"BlueSky": ["https://bsky.app/profile/bilge.bsky.social"]
+	},
+	"Matthias van de Meent": {
+		"Mastodon": ["https://fosstodon.org/@mmeent_pg"]
 	}
 }
