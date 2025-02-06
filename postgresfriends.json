@@ -664,7 +664,8 @@
 		"interview": "pavel_luzanov"
 	},
 	"Marc Linster": {
-		"interview": "marc_linster"
+		"interview": "marc_linster",
+		"BlueSky": ["https://bsky.app/profile/marclinster.bsky.social"]
 	},
 	"Bharath Rupireddy": {
 		"interview": "bharath_rupireddy"
