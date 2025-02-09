@@ -52,6 +52,28 @@ jobs:
         run: exit 1
         if: steps.mastadon_count_friends.outputs.COUNT != '0'
 
+      - name: Find 'Linkedin' in postgresfriends.json file
+        run: echo "COUNT=$(grep -c 'Linkedin' postgresfriends.json)" >>$GITHUB_OUTPUT
+        id: linkedin_count_friends
+
+      - name: Show 'Linkedin' word count
+        run: echo "${{ steps.linkedin_count_friends.outputs.COUNT }}"
+
+      - name: Break if word 'Linkedin' is found
+        run: exit 1
+        if: steps.linkedin_count_friends.outputs.COUNT != '0'
+
+      - name: Find 'Bluesky' in postgresfriends.json file
+        run: echo "COUNT=$(grep -c 'Bluesky' postgresfriends.json)" >>$GITHUB_OUTPUT
+        id: bluesky_count_friends
+
+      - name: Show 'Bluesky' word count
+        run: echo "${{ steps.bluesky_count_friends.outputs.COUNT }}"
+
+      - name: Break if word 'Bluesky' is found
+        run: exit 1
+        if: steps.bluesky_count_friends.outputs.COUNT != '0'
+
 
       - name: Verify JSON postgresprojects.json
         run: jq -e "." < postgresprojects.json > /dev/null
@@ -69,3 +91,25 @@ jobs:
       - name: Break if word 'Mastadon' is found
         run: exit 1
         if: steps.mastadon_count_projects.outputs.COUNT != '0'
+
+      - name: Find 'Linkedin' in postgresprojects.json file
+        run: echo "COUNT=$(grep -c 'Linkedin' postgresprojects.json)" >>$GITHUB_OUTPUT
+        id: linkedin_count_projects
+
+      - name: Show 'Linkedin' word count
+        run: echo "${{ steps.linkedin_count_projects.outputs.COUNT }}"
+
+      - name: Break if word 'Linkedin' is found
+        run: exit 1
+        if: steps.linkedin_count_projects.outputs.COUNT != '0'
+
+      - name: Find 'Bluesky' in postgresprojects.json file
+        run: echo "COUNT=$(grep -c 'Bluesky' postgresprojects.json)" >>$GITHUB_OUTPUT
+        id: bluesky_count_projects
+
+      - name: Show 'Bluesky' word count
+        run: echo "${{ steps.bluesky_count_projects.outputs.COUNT }}"
+
+      - name: Break if word 'Bluesky' is found
+        run: exit 1
+        if: steps.bluesky_count_projects.outputs.COUNT != '0'
