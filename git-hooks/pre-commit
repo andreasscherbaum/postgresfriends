@@ -17,6 +17,20 @@ then
     exit 1
 fi
 
+echo "Check for 'Linkedin' instead of 'LinkedIn' ..."
+if grep -q 'Linkedin' postgresfriends.json;
+then
+    echo "String 'Linkedin' found in postgresfriends.json"
+    exit 1
+fi
+
+echo "Check for 'Bluesky' instead of 'BlueSky' ..."
+if grep -q 'Bluesky' postgresfriends.json;
+then
+    echo "String 'Bluesky' found in postgresfriends.json"
+    exit 1
+fi
+
 echo "Check postgresprojects.json syntax ..."
 jq -e "." < postgresprojects.json > /dev/null
 
@@ -27,5 +41,19 @@ echo "Check for 'Mastadon' instead of 'Mastodon' ..."
 if grep -q 'Mastadon' postgresprojects.json;
 then
     echo "String 'Mastadon' found in postgresprojects.json"
+    exit 1
+fi
+
+echo "Check for 'Linkedin' instead of 'LinkedIn' ..."
+if grep -q 'Linkedin' postgresprojects.json;
+then
+    echo "String 'Linkedin' found in postgresprojects.json"
+    exit 1
+fi
+
+echo "Check for 'Bluesky' instead of 'BlueSky' ..."
+if grep -q 'Bluesky' postgresprojects.json;
+then
+    echo "String 'Bluesky' found in postgresprojects.json"
     exit 1
 fi
