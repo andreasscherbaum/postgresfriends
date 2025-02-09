@@ -1,4 +1,27 @@
 {
+	"PostgreSQL Europe": {
+		"Metup": ["https://www.postgresql.eu/"],
+		"LinkedIn": ["https://www.linkedin.com/company/101177611/"],
+		"BlueSky": ["https://bsky.app/profile/postgresql.eu"]
+	},
+	"PostgreSQL Europe Diversity Task Force": {
+		"Website": ["https://www.postgresql.eu/diversity/"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/postgresql-europe-diversity-task-force/"],
+		"BlueSky": ["https://bsky.app/profile/pgeudiversity.bsky.social"],
+		"Mastodon": ["https://hachyderm.io/@PostgreSQLEuropeDiversity"]
+	},
+	"FOSDEM PGDay": {
+		"Website": ["https://fosdempgday.org/"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/105439023/"],
+		"BlueSky": ["https://bsky.app/profile/fosdempgday.org"],
+		"Mastodon": ["https://mastodon.social/@fosdempgday"]
+	},
+	"Nordic PGDay": {
+		"Website": ["https://nordicpgday.org/"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/nordicpgday/"],
+		"BlueSky": ["https://bsky.app/profile/nordicpgday.org"],
+		"Mastodon": ["https://mastodon.social/@nordicpgday"]
+	},
 	"PostgreSQL User Group Belgium": {
 		"Metup": ["https://www.meetup.com/postgresbe/"],
 		"Mastodon": ["https://mastodon.world/@postgresqlBE"]
@@ -9,7 +32,9 @@
 	},
 	"PostgreSQL Conference Germany": {
 		"Website": ["https://pgconf.de/"],
-		"Mastodon": ["https://fosstodon.org/@pgconfde"]
+		"Mastodon": ["https://fosstodon.org/@pgconfde"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/106022190/"],
+		"BlueSky": ["https://bsky.app/profile/pgconfde.bsky.social"]
 	},
 	"Swiss PGDay": {
 		"Website": ["https://www.pgday.ch/"],
@@ -21,11 +46,24 @@
 	},
 	"PGConf.dev": {
 		"Website": ["https://pgconf.dev/"],
-		"Mastodon": ["https://mastodon.social/@pgconfdev"]
+		"Mastodon": ["https://mastodon.social/@pgconfdev"],
+		"LinkedIn": ["https://www.linkedin.com/company/pgconf-dev/"],
+		"BlueSky": ["https://bsky.app/profile/pgconf.dev"]
 	},
 	"PGDay UK": {
 		"Website": ["https://pgday.uk/"],
-		"Mastodon": ["https://fosstodon.org/@postgresuk"]
+		"Mastodon": ["https://fosstodon.org/@postgresuk"],
+		"BlueSky": ["https://bsky.app/profile/pgdayuk.bsky.social"]
+	},
+	"PGDay MED": {
+		"Website": ["https://pgdaymed.org/"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/pgday-med/posts/"]
+	},
+	"PGDay Napoli": {
+		"Website": ["https://pgdayna.org/"],
+		"LinkedIn": ["https://www.linkedin.com/company/105739567/admin/dashboard/"],
+		"Mastodon": ["https://mastodon.social/@pgdayna"],
+		"BlueSky": ["https://bsky.app/profile/pgdayna.org"]
 	},
 	"PostgreSQL.fr": {
 		"Website": ["https://postgresql.fr/"],
@@ -33,7 +71,9 @@
 	},
 	"PGConf.EU": {
 		"Website": ["https://pgconf.eu/"],
-		"Mastodon": ["https://mastodon.social/@pgconfeu"]
+		"Mastodon": ["https://mastodon.social/@pgconfeu"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/pgconfeu/posts/"],
+		"BlueSky": ["https://bsky.app/profile/pgconf.eu"]
 	},
 	"pgDay Paris": {
 		"Website": ["https://pgday.paris/"],
@@ -49,7 +89,9 @@
 	},
 	"PGDay Lowlands": {
 		"Website": ["https://pgday.nl/"],
-		"Mastodon": ["https://hachyderm.io/@pgdaylowlands"]
+		"Mastodon": ["https://hachyderm.io/@pgdaylowlands"],
+		"LinkedIn": ["https://www.linkedin.com/company/pgdaylowlands/"],
+		"BlueSky": ["https://bsky.app/profile/pgdaylowlands.bsky.social"]
 	},
 	"DBA Appreciation Day": {
 		"Website": ["https://dbaday.org/"],
@@ -61,5 +103,8 @@
 	"PGConf.NYC": {
 		"Website": ["https://pgconf.nyc/"],
 		"Mastodon": ["https://fosstodon.org/@pgconfnyc"]
+	},
+	"PGDay Austria": {
+		"Website": ["https://pgday.at/en/"]
 	}
 }
