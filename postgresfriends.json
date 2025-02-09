@@ -573,7 +573,8 @@
 	"Stacey Haysler": {
 		"interview": "stacey_haysler",
 		"LinkedIn": ["https://www.linkedin.com/in/stacey-haysler-31b06998/"],
-		"Mastodon": ["https://fosstodon.org/@shaysler"]
+		"Mastodon": ["https://fosstodon.org/@shaysler"],
+		"BlueSky": ["https://bsky.app/profile/shaysler.bsky.social"]
 	},
 	"Kohei Kaigai": {
 		"interview": "kohei_kaigai"
