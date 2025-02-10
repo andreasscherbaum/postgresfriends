@@ -2,7 +2,8 @@
 	"PostgreSQL Europe": {
 		"Metup": ["https://www.postgresql.eu/"],
 		"LinkedIn": ["https://www.linkedin.com/company/101177611/"],
-		"BlueSky": ["https://bsky.app/profile/postgresql.eu"]
+		"BlueSky": ["https://bsky.app/profile/postgresql.eu"],
+		"YouTube": ["https://www.youtube.com/@pgeu"]
 	},
 	"PostgreSQL Europe Diversity Task Force": {
 		"Website": ["https://www.postgresql.eu/diversity/"],
@@ -77,7 +78,9 @@
 	},
 	"pgDay Paris": {
 		"Website": ["https://pgday.paris/"],
-		"Mastodon": ["https://mastodon.social/@pgdayparis"]
+		"Mastodon": ["https://mastodon.social/@pgdayparis"],
+		"BlueSky": ["https://bsky.app/profile/pgday.paris"],
+		"LinkedIn": ["https://www.linkedin.com/company/pgday-paris/"]
 	},
 	"POSETTE: An Event for Postgres": {
 		"Website": ["https://www.citusdata.com/posette/"],
@@ -106,5 +109,13 @@
 	},
 	"PGDay Austria": {
 		"Website": ["https://pgday.at/en/"]
+	},
+	"PGDay Belgium": {
+		"Website": ["https://pgconf.be/"]
+	},
+	"POSETTE: An Event for Postgres": {
+		"Website": ["https://posetteconf.com/"],
+		"BlueSky": ["https://bsky.app/profile/posetteconf.com"],
+		"LinkedIn": ["https://www.linkedin.com/company/posetteconf/"]
 	}
 }
