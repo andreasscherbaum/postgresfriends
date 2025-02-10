@@ -31,6 +31,13 @@ then
     exit 1
 fi
 
+echo "Check for 'Youtube' instead of 'YouTube' ..."
+if grep -q 'Youtube' postgresfriends.json;
+then
+    echo "String 'Youtube' found in postgresfriends.json"
+    exit 1
+fi
+
 echo "Check postgresprojects.json syntax ..."
 jq -e "." < postgresprojects.json > /dev/null
 
@@ -55,5 +62,12 @@ echo "Check for 'Bluesky' instead of 'BlueSky' ..."
 if grep -q 'Bluesky' postgresprojects.json;
 then
     echo "String 'Bluesky' found in postgresprojects.json"
+    exit 1
+fi
+
+echo "Check for 'Youtube' instead of 'YouTube' ..."
+if grep -q 'Youtube' postgresprojects.json;
+then
+    echo "String 'Youtube' found in postgresprojects.json"
     exit 1
 fi

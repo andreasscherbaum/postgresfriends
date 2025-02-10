@@ -74,6 +74,17 @@ jobs:
         run: exit 1
         if: steps.bluesky_count_friends.outputs.COUNT != '0'
 
+      - name: Find 'Youtube' in postgresfriends.json file
+        run: echo "COUNT=$(grep -c 'Youtube' postgresfriends.json)" >>$GITHUB_OUTPUT
+        id: youtube_count_friends
+
+      - name: Show 'Youtube' word count
+        run: echo "${{ steps.youtube_count_friends.outputs.COUNT }}"
+
+      - name: Break if word 'Youtube' is found
+        run: exit 1
+        if: steps.youtube_count_friends.outputs.COUNT != '0'
+
 
       - name: Verify JSON postgresprojects.json
         run: jq -e "." < postgresprojects.json > /dev/null
@@ -113,3 +124,14 @@ jobs:
       - name: Break if word 'Bluesky' is found
         run: exit 1
         if: steps.bluesky_count_projects.outputs.COUNT != '0'
+
+      - name: Find 'Youtube' in postgresprojects.json file
+        run: echo "COUNT=$(grep -c 'Youtube' postgresprojects.json)" >>$GITHUB_OUTPUT
+        id: youtube_count_projects
+
+      - name: Show 'Youtube' word count
+        run: echo "${{ steps.youtube_count_projects.outputs.COUNT }}"
+
+      - name: Break if word 'Youtube' is found
+        run: exit 1
+        if: steps.youtube_count_projects.outputs.COUNT != '0'
