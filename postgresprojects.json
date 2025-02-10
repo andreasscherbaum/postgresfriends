@@ -117,5 +117,69 @@
 		"Website": ["https://posetteconf.com/"],
 		"BlueSky": ["https://bsky.app/profile/posetteconf.com"],
 		"LinkedIn": ["https://www.linkedin.com/company/posetteconf/"]
+	},
+	"PGDay Chicago": {
+		"Website": ["https://pgdaychicago.org//"],
+		"Mastodon": ["https://fosstodon.org/@pgdaychicago/"]
+	},
+	"PostgreSQL Meetup Munich": {
+		"Website": ["https://www.meetup.com/postgresql-meetup-munich/"]
+	},
+	"PostgreSQL User Group Paris": {
+		"Website": ["https://www.meetup.com/postgresql-user-group-paris/"]
+	},
+	"Armenia PostgreSQL User Group": {
+		"Website": ["https://www.meetup.com/armenia-postgresql-user-group/"]
+	},
+	"Dubai PostgreSQL User Group": {
+		"Website": ["https://www.meetup.com/dubai-postgresql-user-group/"]
+	},
+	"Islamabad PostgreSQL User Group": {
+		"Website": ["https://www.meetup.com/islamabad-postgresql-user-group/"]
+	},
+	"Postgres Meetup for All": {
+		"Website": ["https://www.meetup.com/postgres-meetup-for-all/"]
+	},
+	"Postgres Women NYC": {
+		"Website": ["https://www.meetup.com/postgres-women-nyc/"]
+	},
+	"Toronto Postgres User Group": {
+		"Website": ["https://www.meetup.com/toronto-postgres-user-group/"]
+	},
+	"DC PostgreSQL Users Group": {
+		"Website": ["https://www.meetup.com/dc-postgresql-users-group/"]
+	},
+	"Postgres RVA": {
+		"Website": ["https://www.meetup.com/postgres-rva/"]
+	},
+	"Columbus PostgreSQL Users Group - pgCMH": {
+		"Website": ["https://www.meetup.com/postgrescmh/"]
+	},
+	"Triangle Postgres Users Group": {
+		"Website": ["https://www.meetup.com/triangle-postgres-users-group/"]
+	},
+	"Chicago PostgreSQL Meetup Group": {
+		"Website": ["https://www.meetup.com/chicago-postgresql-user-group/"]
+	},
+	"Kansas City Postgres User Group": {
+		"Website": ["https://www.meetup.com/kansas-city-postgres-user-group/"]
+	},
+	"Tampa Bay PostgreSQL Users Group": {
+		"Website": ["https://www.meetup.com/tampa-bay-postgresql-users-group/"]
+	},
+	"Seattle PostgreSQL Users Group - SEAPUG": {
+		"Website": ["https://www.meetup.com/seattle-postgres/"]
+	},
+	"PDXPUG - Portland PostgreSQL Users Group": {
+		"Website": ["https://www.meetup.com/pdxpug/"]
+	},
+	"The San Francisco Bay Area PostgreSQL Meetup Group": {
+		"Website": ["https://www.meetup.com/postgresql-1/"]
+	},
+	"PostgreSQL México": {
+		"Website": ["https://www.meetup.com/postgresql-mexico/"]
+	},
+	"PostgreSQL Argentina": {
+		"Website": ["https://www.meetup.com/postgresql-argentina/"]
 	}
 }
