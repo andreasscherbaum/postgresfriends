@@ -2,7 +2,6 @@
 	"Andreas 'ads' Scherbaum": {
 		"anchorlink": "ads",
 		"Blog": ["https://andreas.scherbaum.la/", "https://postgresql.life/", "https://engineering.adjust.com/authors/ascherbaum/"],
-		"Twitter": ["https://twitter.com/ascherbaum"],
 		"LinkedIn": ["https://www.linkedin.com/in/andreas-scherbaum-87b6663/"],
 		"Mastodon": ["https://mastodon.social/@ascherbaum"],
 		"Polywork": ["https://www.polywork.com/ads"],
@@ -33,7 +32,6 @@
 		"LinkedIn": ["https://www.linkedin.com/in/fabriziomello/"]
 	},
 	"Floor Drees": {
-		"Twitter": ["https://twitter.com/floordrees"],
                 "Mastodon": ["https://hachyderm.io/@floord"],
                 "LinkedIn": ["https://www.linkedin.com/in/floordrees/"],
                 "Blog": ["https://dev.to/floord/"]
@@ -45,7 +43,6 @@
 		"LinkedIn": ["https://www.linkedin.com/in/josepheconway/"]
 	},
 	"Vik Fearing": {
-		"Twitter": ["https://twitter.com/pg_xocolatl"],
 		"Mastodon": ["https://mastodon.social/@xocolatl"]
 	},
 	"Lætitia Avrot": {
@@ -69,7 +66,6 @@
 	},
 	"Federico Campoli": {
 		"interview": "federico_campoli",
-		"Twitter": ["https://twitter.com/4thdoctor_scarf"],
 		"Mastodon": ["https://fosstodon.org/@4thdoctor_scarf"],
 		"Blog": ["https://pgdba.org/"]
 	},
@@ -206,7 +202,6 @@
 	"Karen Jex": {
 		"interview": "karen_jex",
 		"LinkedIn": ["https://www.linkedin.com/in/karenhjex/"],
-		"Twitter": ["https://twitter.com/Karenhjex"],
 		"Mastodon": ["https://mastodon.online/@karenhjex"]
 	},
 	"Thomas Munro": {
@@ -290,7 +285,6 @@
 	"Lukas Eder": {
 		"interview": "lukas_eder",
 		"LinkedIn": ["https://www.linkedin.com/in/lukas-eder-88794b255/"],
-		"Twitter": ["https://twitter.com/lukaseder"],
 		"Blog": ["https://blog.jooq.org/"],
 		"Mastodon": ["https://mastodon.social/@lukaseder"]
 	},
@@ -329,7 +323,6 @@
 	"Sébastien Lardière": {
 		"interview": "sebastien_lardiere",
 		"Blog": ["https://sebastien.lardiere.net/blog/index.php/category/Postgresql"],
-		"Twitter": ["https://twitter.com/slardiere"],
 		"Mastodon": ["https://mastodon.xyz/@slardiere"]
 	},
 	"Jean-Christophe Arnu": {
@@ -357,7 +350,6 @@
 	},
 	"Josh Berkus": {
 		"interview": "josh_berkus",
-		"Twitter": ["https://twitter.com/fuzzychef"],
 		"Tech Blog": ["https://www.databasesoup.com/"],
 		"Food/Pottery Blog": ["http://www.fuzzychef.org/"],
 		"Food/Pottery Instagram": ["https://www.instagram.com/fuzzychefpottery/"],
