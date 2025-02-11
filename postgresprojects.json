@@ -86,10 +86,6 @@
 		"Website": ["https://www.citusdata.com/posette/"],
 		"Mastodon": ["https://mastodon.social/@posetteconf"]
 	},
-	"BayAreaPostgres": {
-		"Website": ["https://www.meetup.com/postgresql-1/"],
-		"Mastodon": ["https://fosstodon.org/@BayAreaPostgres"]
-	},
 	"PGDay Lowlands": {
 		"Website": ["https://pgday.nl/"],
 		"Mastodon": ["https://hachyderm.io/@pgdaylowlands"],
@@ -173,8 +169,9 @@
 	"PDXPUG - Portland PostgreSQL Users Group": {
 		"Website": ["https://www.meetup.com/pdxpug/"]
 	},
-	"The San Francisco Bay Area PostgreSQL Meetup Group": {
-		"Website": ["https://www.meetup.com/postgresql-1/"]
+	"The San Francisco Bay Area PostgreSQL Meetup Group - BayAreaPostgres": {
+		"Website": ["https://www.meetup.com/postgresql-1/"],
+		"Mastodon": ["https://fosstodon.org/@BayAreaPostgres"]
 	},
 	"PostgreSQL México": {
 		"Website": ["https://www.meetup.com/postgresql-mexico/"]
