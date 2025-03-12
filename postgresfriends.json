@@ -880,5 +880,13 @@
 	},
 	"Matthias van de Meent": {
 		"Mastodon": ["https://fosstodon.org/@mmeent_pg"]
+	},
+	"Doug Ortiz": {
+		"interview": "doug_ortiz",
+		"LinkedIn": ["https://www.linkedin.com/in/doug-ortiz-illustris/"],
+		"YouTube": ["https://www.youtube.com/@techbits-do"],
+		"Mastodon": ["https://mastodon.social/@DougOrtiz"],
+		"BlueSky": ["https://dougortiz.bsky.social/"],
+		"Bio": ["https://bio.site/dougortiz"]
 	}
 }
