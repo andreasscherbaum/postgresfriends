@@ -178,5 +178,10 @@
 	},
 	"PostgreSQL Argentina": {
 		"Website": ["https://www.meetup.com/postgresql-argentina/"]
+	},
+	"CloudNativePG": {
+		"Website": ["https://cloudnative-pg.io/"],
+		"YouTube": ["https://www.youtube.com/channel/UCTGH88W1BiuRRPTzJUDPJyA"],
+		"Mastodon": ["https://mastodon.social/@CloudNativePG"]
 	}
 }

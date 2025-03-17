@@ -888,5 +888,10 @@
 		"Mastodon": ["https://mastodon.social/@DougOrtiz"],
 		"BlueSky": ["https://dougortiz.bsky.social/"],
 		"Bio": ["https://bio.site/dougortiz"]
+	},
+	"Emma Saroyan": {
+		"interview": "emma_saroyan",
+		"LinkedIn": ["https://www.linkedin.com/in/emma-saroyan/"],
+		"Mastodon": ["https://mastodon.social/@emmasaroyan"]
 	}
 }
