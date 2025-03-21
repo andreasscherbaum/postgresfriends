@@ -565,7 +565,7 @@
 		"interview": "stacey_haysler",
 		"LinkedIn": ["https://www.linkedin.com/in/stacey-haysler-31b06998/"],
 		"Mastodon": ["https://fosstodon.org/@shaysler"],
-		"BlueSky": ["https://bsky.app/profile/shaysler.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/shaysler.bsky.social"]
 	},
 	"Kohei Kaigai": {
 		"interview": "kohei_kaigai"
@@ -657,7 +657,7 @@
 	},
 	"Marc Linster": {
 		"interview": "marc_linster",
-		"BlueSky": ["https://bsky.app/profile/marclinster.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/marclinster.bsky.social"]
 	},
 	"Bharath Rupireddy": {
 		"interview": "bharath_rupireddy"
@@ -876,7 +876,7 @@
 		"interview": "ayse_bilge_ince",
 		"Mastodon": ["https://mastodon.social/@bilgegunduz"],
 		"Blog": ["https://medium.com/@aysebilgegunduz"],
-		"BlueSky": ["https://bsky.app/profile/bilge.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/bilge.bsky.social"]
 	},
 	"Matthias van de Meent": {
 		"Mastodon": ["https://fosstodon.org/@mmeent_pg"]
@@ -886,7 +886,7 @@
 		"LinkedIn": ["https://www.linkedin.com/in/doug-ortiz-illustris/"],
 		"YouTube": ["https://www.youtube.com/@techbits-do"],
 		"Mastodon": ["https://mastodon.social/@DougOrtiz"],
-		"BlueSky": ["https://dougortiz.bsky.social/"],
+		"Bluesky": ["https://dougortiz.bsky.social/"],
 		"Bio": ["https://bio.site/dougortiz"]
 	},
 	"Emma Saroyan": {
