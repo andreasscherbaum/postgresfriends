@@ -2,25 +2,25 @@
 	"PostgreSQL Europe": {
 		"Metup": ["https://www.postgresql.eu/"],
 		"LinkedIn": ["https://www.linkedin.com/company/101177611/"],
-		"BlueSky": ["https://bsky.app/profile/postgresql.eu"],
+		"Bluesky": ["https://bsky.app/profile/postgresql.eu"],
 		"YouTube": ["https://www.youtube.com/@pgeu"]
 	},
 	"PostgreSQL Europe Diversity Task Force": {
 		"Website": ["https://www.postgresql.eu/diversity/"],
 		"LinkedIn": ["https://www.linkedin.com/showcase/postgresql-europe-diversity-task-force/"],
-		"BlueSky": ["https://bsky.app/profile/pgeudiversity.bsky.social"],
+		"Bluesky": ["https://bsky.app/profile/pgeudiversity.bsky.social"],
 		"Mastodon": ["https://hachyderm.io/@PostgreSQLEuropeDiversity"]
 	},
 	"FOSDEM PGDay": {
 		"Website": ["https://fosdempgday.org/"],
 		"LinkedIn": ["https://www.linkedin.com/showcase/105439023/"],
-		"BlueSky": ["https://bsky.app/profile/fosdempgday.org"],
+		"Bluesky": ["https://bsky.app/profile/fosdempgday.org"],
 		"Mastodon": ["https://mastodon.social/@fosdempgday"]
 	},
 	"Nordic PGDay": {
 		"Website": ["https://nordicpgday.org/"],
 		"LinkedIn": ["https://www.linkedin.com/showcase/nordicpgday/"],
-		"BlueSky": ["https://bsky.app/profile/nordicpgday.org"],
+		"Bluesky": ["https://bsky.app/profile/nordicpgday.org"],
 		"Mastodon": ["https://mastodon.social/@nordicpgday"]
 	},
 	"PostgreSQL User Group Belgium": {
@@ -35,7 +35,7 @@
 		"Website": ["https://pgconf.de/"],
 		"Mastodon": ["https://fosstodon.org/@pgconfde"],
 		"LinkedIn": ["https://www.linkedin.com/showcase/106022190/"],
-		"BlueSky": ["https://bsky.app/profile/pgconfde.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/pgconfde.bsky.social"]
 	},
 	"Swiss PGDay": {
 		"Website": ["https://www.pgday.ch/"],
@@ -49,12 +49,12 @@
 		"Website": ["https://pgconf.dev/"],
 		"Mastodon": ["https://mastodon.social/@pgconfdev"],
 		"LinkedIn": ["https://www.linkedin.com/company/pgconf-dev/"],
-		"BlueSky": ["https://bsky.app/profile/pgconf.dev"]
+		"Bluesky": ["https://bsky.app/profile/pgconf.dev"]
 	},
 	"PGDay UK": {
 		"Website": ["https://pgday.uk/"],
 		"Mastodon": ["https://fosstodon.org/@postgresuk"],
-		"BlueSky": ["https://bsky.app/profile/pgdayuk.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/pgdayuk.bsky.social"]
 	},
 	"PGDay MED": {
 		"Website": ["https://pgdaymed.org/"],
@@ -64,7 +64,7 @@
 		"Website": ["https://pgdayna.org/"],
 		"LinkedIn": ["https://www.linkedin.com/company/105739567/admin/dashboard/"],
 		"Mastodon": ["https://mastodon.social/@pgdayna"],
-		"BlueSky": ["https://bsky.app/profile/pgdayna.org"]
+		"Bluesky": ["https://bsky.app/profile/pgdayna.org"]
 	},
 	"PostgreSQL.fr": {
 		"Website": ["https://postgresql.fr/"],
@@ -74,12 +74,12 @@
 		"Website": ["https://pgconf.eu/"],
 		"Mastodon": ["https://mastodon.social/@pgconfeu"],
 		"LinkedIn": ["https://www.linkedin.com/showcase/pgconfeu/posts/"],
-		"BlueSky": ["https://bsky.app/profile/pgconf.eu"]
+		"Bluesky": ["https://bsky.app/profile/pgconf.eu"]
 	},
 	"pgDay Paris": {
 		"Website": ["https://pgday.paris/"],
 		"Mastodon": ["https://mastodon.social/@pgdayparis"],
-		"BlueSky": ["https://bsky.app/profile/pgday.paris"],
+		"Bluesky": ["https://bsky.app/profile/pgday.paris"],
 		"LinkedIn": ["https://www.linkedin.com/company/pgday-paris/"]
 	},
 	"POSETTE: An Event for Postgres": {
@@ -90,7 +90,7 @@
 		"Website": ["https://pgday.nl/"],
 		"Mastodon": ["https://hachyderm.io/@pgdaylowlands"],
 		"LinkedIn": ["https://www.linkedin.com/company/pgdaylowlands/"],
-		"BlueSky": ["https://bsky.app/profile/pgdaylowlands.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/pgdaylowlands.bsky.social"]
 	},
 	"DBA Appreciation Day": {
 		"Website": ["https://dbaday.org/"],
@@ -111,7 +111,7 @@
 	},
 	"POSETTE: An Event for Postgres": {
 		"Website": ["https://posetteconf.com/"],
-		"BlueSky": ["https://bsky.app/profile/posetteconf.com"],
+		"Bluesky": ["https://bsky.app/profile/posetteconf.com"],
 		"LinkedIn": ["https://www.linkedin.com/company/posetteconf/"]
 	},
 	"PGDay Chicago": {
