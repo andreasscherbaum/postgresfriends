@@ -900,5 +900,10 @@
 	},
 	"Cédric Villemain": {
 		"Mastodon": ["https://mastodon.tetaneutral.net/@c2main"]
+	},
+	"Akshat Jaimini": {
+		"interview": "akshat_jaimini",
+		"LinkedIn": ["https://www.linkedin.com/in/akshat-jaimini-05a610203/"],
+                "Blog": ["https://medium.com/@destrex271/"]
 	}
 }
