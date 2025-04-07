@@ -913,5 +913,9 @@
 	"Jan Wieremjewicz": {
 		"LinkedIn": ["https://www.linkedin.com/in/janwie/"],
 		"Mastodon": ["https://mastodon.social/@jashiu"]
+	},
+	"Frédéric Delacourt": {
+		"interview": "frederic_delacourt",
+		"LinkedIn": ["https://www.linkedin.com/in/frédéric-delacourt-consulting/"]
 	}
 }
