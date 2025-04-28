@@ -918,5 +918,10 @@
 	"Frédéric Delacourt": {
 		"interview": "frederic_delacourt",
 		"LinkedIn": ["https://www.linkedin.com/in/frédéric-delacourt-consulting/"]
+	},
+	"Adam Hendel": {
+		"interview": "adam_hendel",
+		"LinkedIn": ["https://www.linkedin.com/in/adam-hendel/"],
+		"GitHub": ["https://github.com/chuckhend"]
 	}
 }
