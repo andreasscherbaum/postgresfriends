@@ -923,5 +923,15 @@
 		"interview": "adam_hendel",
 		"LinkedIn": ["https://www.linkedin.com/in/adam-hendel/"],
 		"GitHub": ["https://github.com/chuckhend"]
+	},
+	"Dirk Krautschick": {
+		"interview": "dirk_krautschick",
+		"LinkedIn": ["https://www.linkedin.com/in/dirk-krautschick/"],
+		"YouTube": ["https://www.youtube.com/@dirkkrautschick1337"],
+		"Mastodon": ["https://nrw.social/@d33k4y"],
+		"Bluesky": ["https://bsky.app/profile/d33k4y.bsky.social"],
+		"Company Blog": ["https://aiven.io/blog"],
+		"Xing": ["https://www.xing.com/profile/Dirk_Krautschick/"],
+		"Twitter": ["https://twitter.com/d33_k4y"]
 	}
 }
