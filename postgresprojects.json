@@ -54,7 +54,8 @@
 	"PGDay UK": {
 		"Website": ["https://pgday.uk/"],
 		"Mastodon": ["https://fosstodon.org/@postgresuk"],
-		"Bluesky": ["https://bsky.app/profile/pgdayuk.bsky.social"]
+		"Bluesky": ["https://bsky.app/profile/pgdayuk.bsky.social"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/pgdayuk/"]
 	},
 	"PGDay MED": {
 		"Website": ["https://pgdaymed.org/"],
