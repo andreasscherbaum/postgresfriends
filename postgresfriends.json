@@ -933,5 +933,8 @@
 		"Company Blog": ["https://aiven.io/blog"],
 		"Xing": ["https://www.xing.com/profile/Dirk_Krautschick/"],
 		"Twitter": ["https://twitter.com/d33_k4y"]
+	},
+	"Dilan Tek": {
+		"interview": "dilan_tek"
 	}
 }
