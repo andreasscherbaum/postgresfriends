@@ -936,5 +936,9 @@
 	},
 	"Dilan Tek": {
 		"interview": "dilan_tek"
+	},
+	"Teresa Lopes": {
+		"interview": "teresa_lopes",
+		"LinkedIn": ["https://www.linkedin.com/in/teresa-lopes-774bb55a/"]
 	}
 }
