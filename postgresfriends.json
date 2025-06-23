@@ -944,5 +944,11 @@
 	"Nisha Moond": {
 		"interview": "nisha_moond",
 		"LinkedIn": ["https://www.linkedin.com/in/nisha-moond/"]
+	},
+	"Suraj Kharage": {
+		"interview": "suraj_kharage",
+		"LinkedIn": ["https://www.linkedin.com/in/suraj-kharage-411269a1/"],
+                "Blog": ["https://www.enterprisedb.com/blog/author/suraj-kharage"],
+                "Instagram": ["https://www.instagram.com/surajkharage"]
 	}
 }
