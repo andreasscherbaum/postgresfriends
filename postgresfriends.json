@@ -950,5 +950,10 @@
 		"LinkedIn": ["https://www.linkedin.com/in/suraj-kharage-411269a1/"],
                 "Blog": ["https://www.enterprisedb.com/blog/author/suraj-kharage"],
                 "Instagram": ["https://www.instagram.com/surajkharage"]
+	},
+	"Samed YILDIRIM": {
+		"interview": "samed_yildirim",
+		"LinkedIn": ["https://www.linkedin.com/in/samedyildirim"],
+                "GitHub": ["https://github.com/samedyildirim"]
 	}
 }
