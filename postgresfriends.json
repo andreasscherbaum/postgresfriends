@@ -868,7 +868,10 @@
 		"Twitter": ["https://twitter.com/rlathia"]
 	},
 	"Josef Machytka": {
-		"Mastodon": ["https://me.dm/@JosefMachytka"]
+		"interview": "josef_machytka",
+		"Mastodon": ["https://me.dm/@JosefMachytka"],
+		"LinkedIn": ["https://www.linkedin.com/in/josef-machytka/"],
+		"Blog": ["https://medium.com/@josef.machytka"]
 	},
 	"Evan Hunter Stanton": {
 		"Mastodon": ["https://fosstodon.org/@ehstanton"]
