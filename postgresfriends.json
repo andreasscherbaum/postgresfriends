@@ -958,5 +958,10 @@
 		"interview": "samed_yildirim",
 		"LinkedIn": ["https://www.linkedin.com/in/samedyildirim"],
                 "GitHub": ["https://github.com/samedyildirim"]
+	},
+	"Dian Fay": {
+		"interview": "dian_fay",
+		"LinkedIn": ["https://www.linkedin.com/in/dian-fay-7408375a/"],
+                "Blog": ["https://di.nmfay.com"]
 	}
 }
