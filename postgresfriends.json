@@ -963,5 +963,13 @@
 		"interview": "dian_fay",
 		"LinkedIn": ["https://www.linkedin.com/in/dian-fay-7408375a/"],
                 "Blog": ["https://di.nmfay.com"]
+	},
+	"Peter Zaitsev": {
+		"interview": "post/peter_zaitsev",
+		"LinkedIn": ["https://www.linkedin.com/in/peterzaitsev/"],
+                "Website": ["https://peterzaitsev.com/"],
+                "Instagram": ["https://www.instagram.com/peterzaitsev/"],
+                "Facebook": ["https://www.facebook.com/peter.zaitsev/"],
+                "Twitter": ["https://twitter.com/peterzaitsev"]
 	}
 }
