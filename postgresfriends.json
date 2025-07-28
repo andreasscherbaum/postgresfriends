@@ -971,5 +971,10 @@
                 "Instagram": ["https://www.instagram.com/peterzaitsev/"],
                 "Facebook": ["https://www.facebook.com/peter.zaitsev/"],
                 "Twitter": ["https://twitter.com/peterzaitsev"]
+	},
+	"Polina Bungina": {
+		"interview": "polina_bungina",
+		"LinkedIn": ["https://www.linkedin.com/in/hughcapet"],
+                "GitHub": ["https://github.com/hughcapet"]
 	}
 }
