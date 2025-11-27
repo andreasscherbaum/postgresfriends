@@ -984,5 +984,8 @@
 	"Curt Kolovson": {
 		"interview": "curt_kolovson",
 		"LinkedIn": ["https://www.linkedin.com/in/ckolovson/"]
+	},
+	"Srinath Reddy": {
+		"Mastodon": ["https://fosstodon.org/@srinath_reddy"]
 	}
 }
