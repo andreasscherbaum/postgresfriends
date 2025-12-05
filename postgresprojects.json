@@ -190,5 +190,10 @@
 		"Mastodon": ["https://fosstodon.org/@PostgresEDI"],
 		"Bluesky": ["https://bsky.app/profile/postgresedi.bsky.social"],
 		"LinkedIn": ["https://www.linkedin.com/company/postgresedi/"]
+	},
+	"PostgreSQL Meetup Group Berlin": {
+		"Website": ["https://www.meetup.com/postgresql-meetup-berlin/"],
+		"Mastodon": ["https://fosstodon.org/@postgresberlin"],
+		"LinkedIn": ["https://www.linkedin.com/company/postgresql-meetup-berlin/"]
 	}
 }
