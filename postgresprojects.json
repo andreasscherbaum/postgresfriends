@@ -195,5 +195,9 @@
 		"Website": ["https://www.meetup.com/postgresql-meetup-berlin/"],
 		"Mastodon": ["https://fosstodon.org/@postgresberlin"],
 		"LinkedIn": ["https://www.linkedin.com/company/postgresql-meetup-berlin/"]
+	},
+	"PostgreSQL Meetup in Frankfurt": {
+		"Website": ["https://www.meetup.com/postgres-user-group-frankfurt-am-main/"],
+		"LinkedIn": ["https://www.linkedin.com/groups/13030204"]
 	}
 }
