@@ -184,5 +184,11 @@
 		"Website": ["https://cloudnative-pg.io/"],
 		"YouTube": ["https://www.youtube.com/channel/UCTGH88W1BiuRRPTzJUDPJyA"],
 		"Mastodon": ["https://mastodon.social/@CloudNativePG"]
+	},
+	"PostgreSQL Edinburgh Meetup": {
+		"Website": ["https://luma.com/PostgresEDI"],
+		"Mastodon": ["https://fosstodon.org/@PostgresEDI"],
+		"Bluesky": ["https://bsky.app/profile/postgresedi.bsky.social"],
+		"LinkedIn": ["https://www.linkedin.com/company/postgresedi/"]
 	}
 }
