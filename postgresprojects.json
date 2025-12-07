@@ -205,5 +205,10 @@
 		"LinkedIn": ["https://www.linkedin.com/showcase/2026-pg-data/"],
 		"Mastodon": ["https://mastodon.social/@pgdata2026"],
 		"Bluesky": ["https://bsky.app/profile/pg-data.bsky.social"]
+	},
+	"Prairie Postgres": {
+		"Website": ["https://prairiepostgres.org/"],
+		"LinkedIn": ["https://www.linkedin.com/company/prairie-postgres"],
+		"Meetup": "https://www.meetup.com/illinois-prairie-postgresql-user-group/"
 	}
 }
