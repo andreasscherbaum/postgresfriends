@@ -199,5 +199,11 @@
 	"PostgreSQL Meetup in Frankfurt": {
 		"Website": ["https://www.meetup.com/postgres-user-group-frankfurt-am-main/"],
 		"LinkedIn": ["https://www.linkedin.com/groups/13030204"]
+	},
+	"PG DATA": {
+		"Website": ["https://2026.pg-data.org/"],
+		"LinkedIn": ["https://www.linkedin.com/showcase/2026-pg-data/"],
+		"Mastodon": ["https://mastodon.social/@pgdata2026"],
+		"Bluesky": ["https://bsky.app/profile/pg-data.bsky.social"]
 	}
 }
