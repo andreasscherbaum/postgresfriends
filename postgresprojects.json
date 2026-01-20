@@ -207,5 +207,11 @@
 		"Website": ["https://prairiepostgres.org/"],
 		"LinkedIn": ["https://www.linkedin.com/company/prairie-postgres"],
 		"Meetup": ["https://www.meetup.com/illinois-prairie-postgresql-user-group/"]
+	},
+	"Prague PostgreSQL Developer Day": {
+		"Website": ["https://p2d2.cz/en/"],
+		"Mastodon": ["https://mastodon.social/@p2d2"],
+		"LinkedIn": ["https://www.linkedin.com/company/prague-postgresql-developer-day/"],
+		"Bluesky": ["https://bsky.app/profile/praguepgdevday.bsky.social"]
 	}
 }
