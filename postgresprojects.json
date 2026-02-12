@@ -213,5 +213,9 @@
 		"Mastodon": ["https://mastodon.social/@p2d2"],
 		"LinkedIn": ["https://www.linkedin.com/company/prague-postgresql-developer-day/"],
 		"Bluesky": ["https://bsky.app/profile/praguepgdevday.bsky.social"]
+	},
+	"PostgreSQL User Group Vienna": {
+		"Website": ["https://www.meetup.com/postgresql-user-group-vienna/"],
+		"LinkedIn": ["https://www.linkedin.com/company/postgresql-user-group-vienna/"]
 	}
 }
